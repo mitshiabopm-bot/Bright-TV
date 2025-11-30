@@ -1,0 +1,2229 @@
+YEAR,MONTH,MONTH_CATEGORY,WEEK,DAY_CATEGORY,AGE_BUCKET,GENDER,RACE,PROVINCE,TOTAL_RECORDS,TOTAL_VIEWTIME_MINUTES,TOTAL_VIEWTIME_HOURS,AVG_VIEWTIME_MINUTES,AVG_VIEWTIME_HOURS
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,None,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,black,Gauteng,1,6,0.1,6,0.1
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,black,KwazuluNatal,1,6,0.1,6,0.1
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,white,Gauteng,4,1,0.02,0.25,0
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,white,KwazuluNatal,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekday,Adolescence,male,white,WesternCape,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,5,Weekday,Childhood,None,None,None,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Eldest,female,white,WesternCape,2,4,0.07,2,0.03
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,None,FreeState,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,None,WesternCape,2,20,0.33,10,0.17
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,black,EasternCape,1,9,0.15,9,0.15
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,black,Gauteng,6,52,0.87,8.67,0.14
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,black,Mpumalanga,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,black,NorthWest,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,female,coloured,WesternCape,4,15,0.25,3.75,0.06
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,None,Gauteng,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,None,KwazuluNatal,3,7,0.12,2.33,0.04
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,None,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,None,Mpumalanga,2,457,7.62,228.5,3.81
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,EasternCape,10,32,0.53,3.2,0.05
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,FreeState,2,25,0.42,12.5,0.21
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,Gauteng,26,154,2.57,5.92,0.1
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,KwazuluNatal,4,14,0.23,3.5,0.06
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,Mpumalanga,5,10,0.17,2,0.03
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,NorthWest,3,5,0.08,1.67,0.03
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,black,WesternCape,2,17,0.28,8.5,0.14
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,coloured,EasternCape,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,coloured,FreeState,1,3,0.05,3,0.05
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,coloured,Gauteng,3,6,0.1,2,0.03
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,coloured,NorthernCape,1,6,0.1,6,0.1
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,coloured,WesternCape,9,41,0.68,4.56,0.08
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,indian_asian,Gauteng,4,103,1.72,25.75,0.43
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,indian_asian,Limpopo,2,27,0.45,13.5,0.23
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,other,Gauteng,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,white,FreeState,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekday,Middle Adulthood,male,white,Gauteng,3,3,0.05,1,0.02
+2016,Feb,Normal_month,5,Weekday,Middle Childhood,female,white,EasternCape,2,2,0.03,1,0.02
+2016,Feb,Normal_month,5,Weekday,Middle Childhood,male,None,WesternCape,1,14,0.23,14,0.23
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,None,WesternCape,1,289,4.82,289,4.82
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,black,FreeState,3,10,0.17,3.33,0.06
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,black,Gauteng,3,11,0.18,3.67,0.06
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,black,KwazuluNatal,6,200,3.33,33.33,0.56
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,black,Mpumalanga,1,22,0.37,22,0.37
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,coloured,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,coloured,Gauteng,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,coloured,Mpumalanga,1,3,0.05,3,0.05
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,coloured,WesternCape,1,3,0.05,3,0.05
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,1,7,0.12,7,0.12
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,white,FreeState,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,female,white,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,None,Gauteng,10,9,0.15,0.9,0.02
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,None,KwazuluNatal,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,None,Mpumalanga,3,6,0.1,2,0.03
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,None,NorthernCape,2,17,0.28,8.5,0.14
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,None,WesternCape,4,40,0.67,10,0.17
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,EasternCape,8,42,0.7,5.25,0.09
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,FreeState,2,12,0.2,6,0.1
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,Gauteng,62,342,5.7,5.52,0.09
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,KwazuluNatal,20,202,3.37,10.1,0.17
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,Limpopo,14,102,1.7,7.29,0.12
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,Mpumalanga,36,306,5.1,8.5,0.14
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,NorthWest,12,70,1.17,5.83,0.1
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,NorthernCape,2,2,0.03,1,0.02
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,black,WesternCape,11,60,1,5.45,0.09
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,coloured,EasternCape,4,34,0.57,8.5,0.14
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,coloured,FreeState,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,coloured,Gauteng,7,19,0.32,2.71,0.05
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,coloured,Limpopo,2,5,0.08,2.5,0.04
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,coloured,NorthernCape,6,26,0.43,4.33,0.07
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,coloured,WesternCape,24,133,2.22,5.54,0.09
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,EasternCape,1,5,0.08,5,0.08
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,Gauteng,8,15,0.25,1.88,0.03
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,9,27,0.45,3,0.05
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,Limpopo,5,18,0.3,3.6,0.06
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,indian_asian,WesternCape,1,9,0.15,9,0.15
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,EasternCape,2,29,0.48,14.5,0.24
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,Gauteng,13,59,0.98,4.54,0.08
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,KwazuluNatal,3,6,0.1,2,0.03
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,Limpopo,1,36,0.6,36,0.6
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,Mpumalanga,3,21,0.35,7,0.12
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,NorthWest,3,8,0.13,2.67,0.04
+2016,Feb,Normal_month,5,Weekday,Young Adulthood,male,white,WesternCape,1,9,0.15,9,0.15
+2016,Feb,Normal_month,5,Weekday,Young Old,male,black,EasternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekday,Young Old,male,coloured,WesternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekend,Adolescence,male,other,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Childhood,None,None,None,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,female,black,EasternCape,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,female,coloured,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,None,FreeState,1,10,0.17,10,0.17
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,None,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,None,KwazuluNatal,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,None,Mpumalanga,2,6,0.1,3,0.05
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,black,EasternCape,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,black,Gauteng,9,41,0.68,4.56,0.08
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,black,KwazuluNatal,3,8,0.13,2.67,0.04
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,black,WesternCape,3,10,0.17,3.33,0.06
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,coloured,EasternCape,1,28,0.47,28,0.47
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,coloured,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,coloured,WesternCape,10,123,2.05,12.3,0.21
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,indian_asian,Gauteng,6,3,0.05,0.5,0.01
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,white,Gauteng,1,3,0.05,3,0.05
+2016,Feb,Normal_month,5,Weekend,Middle Adulthood,male,white,WesternCape,1,21,0.35,21,0.35
+2016,Feb,Normal_month,5,Weekend,Middle Childhood,male,coloured,WesternCape,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Middle Childhood,male,white,Limpopo,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekend,Middle Childhood,male,white,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,None,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,None,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,black,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,black,NorthernCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,black,WesternCape,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,coloured,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,white,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,female,white,WesternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,None,FreeState,1,7,0.12,7,0.12
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,None,Gauteng,2,8,0.13,4,0.07
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,None,KwazuluNatal,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,None,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,None,NorthernCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,None,WesternCape,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,FreeState,1,26,0.43,26,0.43
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,Gauteng,26,214,3.57,8.23,0.14
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,KwazuluNatal,6,109,1.82,18.17,0.3
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,Limpopo,7,176,2.93,25.14,0.42
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,Mpumalanga,13,76,1.27,5.85,0.1
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,NorthWest,9,49,0.82,5.44,0.09
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,black,WesternCape,7,8,0.13,1.14,0.02
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,coloured,EasternCape,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,coloured,FreeState,3,38,0.63,12.67,0.21
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,coloured,Gauteng,4,13,0.22,3.25,0.05
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,coloured,Limpopo,1,21,0.35,21,0.35
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,coloured,NorthernCape,1,3,0.05,3,0.05
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,coloured,WesternCape,14,83,1.38,5.93,0.1
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,indian_asian,Gauteng,3,26,0.43,8.67,0.14
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,4,7,0.12,1.75,0.03
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,indian_asian,Limpopo,6,39,0.65,6.5,0.11
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,white,Gauteng,6,10,0.17,1.67,0.03
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,white,Mpumalanga,1,5,0.08,5,0.08
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,white,NorthWest,2,11,0.18,5.5,0.09
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,white,WesternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,,EasternCape,1,6,0.1,6,0.1
+2016,Feb,Normal_month,5,Weekend,Young Adulthood,male,,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Adolescence,female,indian_asian,KwazuluNatal,2,2,0.03,1,0.02
+2016,Feb,Normal_month,6,Weekday,Adolescence,male,black,FreeState,1,4,0.07,4,0.07
+2016,Feb,Normal_month,6,Weekday,Adolescence,male,black,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Adolescence,male,black,Mpumalanga,1,8,0.13,8,0.13
+2016,Feb,Normal_month,6,Weekday,Adolescence,male,coloured,Gauteng,2,14,0.23,7,0.12
+2016,Feb,Normal_month,6,Weekday,Adolescence,male,white,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Adolescence,male,white,WesternCape,1,9,0.15,9,0.15
+2016,Feb,Normal_month,6,Weekday,Childhood,None,None,None,2,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Eldest,male,black,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,female,black,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,female,black,Gauteng,3,33,0.55,11,0.18
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,female,coloured,WesternCape,2,2,0.03,1,0.02
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,female,white,Gauteng,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,None,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,None,Gauteng,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,None,Mpumalanga,1,87,1.45,87,1.45
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,None,NorthWest,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,None,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,EasternCape,6,8,0.13,1.33,0.02
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,FreeState,2,10,0.17,5,0.08
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,Gauteng,17,54,0.9,3.18,0.05
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,KwazuluNatal,3,63,1.05,21,0.35
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,Mpumalanga,1,5,0.08,5,0.08
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,NorthWest,4,18,0.3,4.5,0.08
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,black,WesternCape,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,coloured,Gauteng,2,11,0.18,5.5,0.09
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,coloured,NorthernCape,1,26,0.43,26,0.43
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,coloured,WesternCape,15,251,4.18,16.73,0.28
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,indian_asian,Gauteng,3,8,0.13,2.67,0.04
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,indian_asian,WesternCape,1,14,0.23,14,0.23
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,white,Gauteng,6,37,0.62,6.17,0.1
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,white,KwazuluNatal,4,38,0.63,9.5,0.16
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,white,Mpumalanga,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,white,NorthWest,1,17,0.28,17,0.28
+2016,Feb,Normal_month,6,Weekday,Middle Adulthood,male,white,WesternCape,3,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Childhood,male,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Middle Childhood,male,white,Limpopo,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,None,Gauteng,5,89,1.48,17.8,0.3
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,None,Mpumalanga,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,FreeState,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,Gauteng,11,132,2.2,12,0.2
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,KwazuluNatal,2,30,0.5,15,0.25
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,Limpopo,1,26,0.43,26,0.43
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,Mpumalanga,2,2,0.03,1,0.02
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,NorthWest,3,36,0.6,12,0.2
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,NorthernCape,5,179,2.98,35.8,0.6
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,black,WesternCape,3,3,0.05,1,0.02
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,indian_asian,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,indian_asian,WesternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,other,Limpopo,2,14,0.23,7,0.12
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,white,Gauteng,3,2,0.03,0.67,0.01
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,female,white,WesternCape,3,3,0.05,1,0.02
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,None,Gauteng,2,15,0.25,7.5,0.13
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,None,KwazuluNatal,2,5,0.08,2.5,0.04
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,None,NorthernCape,4,3,0.05,0.75,0.01
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,None,WesternCape,4,4,0.07,1,0.02
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,EasternCape,11,56,0.93,5.09,0.08
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,Gauteng,47,399,6.65,8.49,0.14
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,KwazuluNatal,12,66,1.1,5.5,0.09
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,Limpopo,17,54,0.9,3.18,0.05
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,Mpumalanga,14,252,4.2,18,0.3
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,NorthWest,9,68,1.13,7.56,0.13
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,NorthernCape,8,50,0.83,6.25,0.1
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,black,WesternCape,8,84,1.4,10.5,0.18
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,coloured,EasternCape,6,289,4.82,48.17,0.8
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,coloured,FreeState,2,16,0.27,8,0.13
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,coloured,Gauteng,3,5,0.08,1.67,0.03
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,coloured,KwazuluNatal,1,13,0.22,13,0.22
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,coloured,NorthernCape,5,8,0.13,1.6,0.03
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,coloured,WesternCape,19,120,2,6.32,0.11
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,indian_asian,EasternCape,1,11,0.18,11,0.18
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,indian_asian,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,6,11,0.18,1.83,0.03
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,indian_asian,Limpopo,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,FreeState,1,10,0.17,10,0.17
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,Gauteng,7,6,0.1,0.86,0.01
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,Limpopo,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,Mpumalanga,3,53,0.88,17.67,0.29
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,NorthWest,2,21,0.35,10.5,0.18
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,NorthernCape,2,7,0.12,3.5,0.06
+2016,Feb,Normal_month,6,Weekday,Young Adulthood,male,white,WesternCape,2,6,0.1,3,0.05
+2016,Feb,Normal_month,6,Weekday,Young Old,male,black,EasternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekend,Adolescence,female,indian_asian,KwazuluNatal,3,48,0.8,16,0.27
+2016,Feb,Normal_month,6,Weekend,Adolescence,male,black,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Adolescence,male,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Adolescence,male,white,Gauteng,3,22,0.37,7.33,0.12
+2016,Feb,Normal_month,6,Weekend,Adolescence,male,white,KwazuluNatal,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekend,Childhood,None,None,None,2,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,female,black,Gauteng,1,73,1.22,73,1.22
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,female,coloured,WesternCape,4,4,0.07,1,0.02
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,None,EasternCape,1,84,1.4,84,1.4
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,None,Gauteng,1,13,0.22,13,0.22
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,None,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,black,EasternCape,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,black,FreeState,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,black,Gauteng,8,18,0.3,2.25,0.04
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,black,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,black,Mpumalanga,5,125,2.08,25,0.42
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,black,WesternCape,2,17,0.28,8.5,0.14
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,coloured,NorthWest,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,coloured,NorthernCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,coloured,WesternCape,7,136,2.27,19.43,0.32
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,indian_asian,Gauteng,3,6,0.1,2,0.03
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,indian_asian,WesternCape,2,11,0.18,5.5,0.09
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,white,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Middle Adulthood,male,white,WesternCape,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,6,Weekend,Middle Childhood,male,white,Limpopo,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,None,Gauteng,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,black,Gauteng,3,2,0.03,0.67,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,black,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,black,NorthernCape,1,4,0.07,4,0.07
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,black,WesternCape,1,9,0.15,9,0.15
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,coloured,Gauteng,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,coloured,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,coloured,WesternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,white,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,female,white,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,None,Gauteng,1,19,0.32,19,0.32
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,None,NorthernCape,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,None,WesternCape,3,2,0.03,0.67,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,EasternCape,4,40,0.67,10,0.17
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,FreeState,2,7,0.12,3.5,0.06
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,Gauteng,27,292,4.87,10.81,0.18
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,Limpopo,6,4,0.07,0.67,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,Mpumalanga,9,64,1.07,7.11,0.12
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,NorthWest,5,31,0.52,6.2,0.1
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,NorthernCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,black,WesternCape,3,17,0.28,5.67,0.09
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,coloured,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,coloured,Gauteng,6,33,0.55,5.5,0.09
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,coloured,NorthernCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,coloured,WesternCape,18,165,2.75,9.17,0.15
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,indian_asian,Gauteng,3,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,4,7,0.12,1.75,0.03
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,indian_asian,Limpopo,1,9,0.15,9,0.15
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,other,WesternCape,4,3,0.05,0.75,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,white,EasternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,white,Gauteng,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,white,Mpumalanga,1,1,0.02,1,0.02
+2016,Feb,Normal_month,6,Weekend,Young Adulthood,male,white,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Adolescence,female,black,EasternCape,1,14,0.23,14,0.23
+2016,Feb,Normal_month,7,Weekday,Adolescence,female,black,Mpumalanga,5,1,0.02,0.2,0
+2016,Feb,Normal_month,7,Weekday,Adolescence,female,indian_asian,KwazuluNatal,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,black,FreeState,6,5,0.08,0.83,0.01
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,black,Gauteng,2,2,0.03,1,0.02
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,black,KwazuluNatal,9,127,2.12,14.11,0.24
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,black,Mpumalanga,4,1,0.02,0.25,0
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,coloured,Gauteng,3,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,indian_asian,KwazuluNatal,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekday,Adolescence,male,white,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Childhood,None,None,None,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,female,black,EasternCape,2,73,1.22,36.5,0.61
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,female,black,NorthWest,1,8,0.13,8,0.13
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,female,coloured,Gauteng,1,2,0.03,2,0.03
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,female,coloured,WesternCape,3,3,0.05,1,0.02
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,female,white,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,female,white,NorthernCape,1,4,0.07,4,0.07
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,None,EasternCape,2,21,0.35,10.5,0.18
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,None,Gauteng,8,18,0.3,2.25,0.04
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,None,NorthernCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,None,WesternCape,4,3,0.05,0.75,0.01
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,EasternCape,11,22,0.37,2,0.03
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,FreeState,1,2,0.03,2,0.03
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,Gauteng,14,113,1.88,8.07,0.13
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,KwazuluNatal,7,12,0.2,1.71,0.03
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,Limpopo,4,7,0.12,1.75,0.03
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,Mpumalanga,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,NorthWest,9,37,0.62,4.11,0.07
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,black,WesternCape,10,22,0.37,2.2,0.04
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,coloured,Gauteng,4,14,0.23,3.5,0.06
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,coloured,WesternCape,20,268,4.47,13.4,0.22
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,indian_asian,Gauteng,1,4,0.07,4,0.07
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,4,106,1.77,26.5,0.44
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,indian_asian,Limpopo,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,indian_asian,NorthWest,1,4,0.07,4,0.07
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,other,WesternCape,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,white,Gauteng,10,94,1.57,9.4,0.16
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,white,KwazuluNatal,1,3,0.05,3,0.05
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,white,Mpumalanga,4,1,0.02,0.25,0
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,white,NorthWest,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,7,Weekday,Middle Adulthood,male,white,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Middle Childhood,male,coloured,WesternCape,3,34,0.57,11.33,0.19
+2016,Feb,Normal_month,7,Weekday,Middle Childhood,male,indian_asian,Limpopo,2,55,0.92,27.5,0.46
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,None,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,FreeState,1,3,0.05,3,0.05
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,Gauteng,3,16,0.27,5.33,0.09
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,KwazuluNatal,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,Limpopo,2,5,0.08,2.5,0.04
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,Mpumalanga,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,NorthWest,2,27,0.45,13.5,0.23
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,black,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,coloured,EasternCape,2,76,1.27,38,0.63
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,coloured,Gauteng,2,6,0.1,3,0.05
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,indian_asian,Gauteng,4,22,0.37,5.5,0.09
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,2,5,0.08,2.5,0.04
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,indian_asian,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,white,Gauteng,3,35,0.58,11.67,0.19
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,female,white,WesternCape,3,29,0.48,9.67,0.16
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,None,Gauteng,5,9,0.15,1.8,0.03
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,None,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,None,Mpumalanga,3,101,1.68,33.67,0.56
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,None,WesternCape,9,41,0.68,4.56,0.08
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,EasternCape,17,36,0.6,2.12,0.04
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,FreeState,7,54,0.9,7.71,0.13
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,Gauteng,89,563,9.38,6.33,0.11
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,KwazuluNatal,23,450,7.5,19.57,0.33
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,Limpopo,20,127,2.12,6.35,0.11
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,Mpumalanga,36,251,4.18,6.97,0.12
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,NorthWest,15,142,2.37,9.47,0.16
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,black,WesternCape,13,84,1.4,6.46,0.11
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,EasternCape,12,30,0.5,2.5,0.04
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,FreeState,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,Gauteng,14,184,3.07,13.14,0.22
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,KwazuluNatal,5,73,1.22,14.6,0.24
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,Limpopo,1,5,0.08,5,0.08
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,Mpumalanga,2,4,0.07,2,0.03
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,NorthernCape,1,4,0.07,4,0.07
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,coloured,WesternCape,65,717,11.95,11.03,0.18
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,indian_asian,EasternCape,4,39,0.65,9.75,0.16
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,indian_asian,Gauteng,9,57,0.95,6.33,0.11
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,2,4,0.07,2,0.03
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,indian_asian,Limpopo,28,349,5.82,12.46,0.21
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,243,4.05,243,4.05
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,indian_asian,WesternCape,3,10,0.17,3.33,0.06
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,other,EasternCape,1,13,0.22,13,0.22
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,other,Gauteng,1,12,0.2,12,0.2
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,other,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,EasternCape,3,7,0.12,2.33,0.04
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,Gauteng,28,293,4.88,10.46,0.17
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,KwazuluNatal,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,Mpumalanga,4,36,0.6,9,0.15
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,NorthernCape,1,32,0.53,32,0.53
+2016,Feb,Normal_month,7,Weekday,Young Adulthood,male,white,WesternCape,7,13,0.22,1.86,0.03
+2016,Feb,Normal_month,7,Weekday,Young Old,male,None,Gauteng,1,16,0.27,16,0.27
+2016,Feb,Normal_month,7,Weekday,Young Old,male,None,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekday,Young Old,male,white,EasternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Adolescence,female,black,EasternCape,3,3,0.05,1,0.02
+2016,Feb,Normal_month,7,Weekend,Adolescence,female,black,FreeState,1,13,0.22,13,0.22
+2016,Feb,Normal_month,7,Weekend,Adolescence,female,coloured,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Adolescence,female,indian_asian,KwazuluNatal,1,20,0.33,20,0.33
+2016,Feb,Normal_month,7,Weekend,Adolescence,male,black,FreeState,1,2,0.03,2,0.03
+2016,Feb,Normal_month,7,Weekend,Adolescence,male,black,KwazuluNatal,2,10,0.17,5,0.08
+2016,Feb,Normal_month,7,Weekend,Adolescence,male,black,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Adolescence,male,black,WesternCape,2,17,0.28,8.5,0.14
+2016,Feb,Normal_month,7,Weekend,Adolescence,male,other,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Adolescence,male,white,WesternCape,1,5,0.08,5,0.08
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,female,None,Gauteng,1,5,0.08,5,0.08
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,female,black,Limpopo,1,10,0.17,10,0.17
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,female,black,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,female,coloured,Gauteng,1,5,0.08,5,0.08
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,female,coloured,WesternCape,3,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,None,Gauteng,4,8,0.13,2,0.03
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,None,Mpumalanga,1,61,1.02,61,1.02
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,None,WesternCape,2,6,0.1,3,0.05
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,black,Gauteng,7,16,0.27,2.29,0.04
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,black,KwazuluNatal,1,18,0.3,18,0.3
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,black,Mpumalanga,3,3,0.05,1,0.02
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,black,NorthWest,2,6,0.1,3,0.05
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,black,WesternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,coloured,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,coloured,NorthernCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,coloured,WesternCape,13,87,1.45,6.69,0.11
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,indian_asian,Gauteng,2,16,0.27,8,0.13
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,indian_asian,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,indian_asian,WesternCape,1,20,0.33,20,0.33
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,white,Gauteng,5,26,0.43,5.2,0.09
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,white,KwazuluNatal,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,white,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Adulthood,male,white,WesternCape,2,30,0.5,15,0.25
+2016,Feb,Normal_month,7,Weekend,Middle Childhood,male,black,Gauteng,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Middle Childhood,male,indian_asian,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Middle Childhood,male,indian_asian,Limpopo,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Middle Childhood,male,white,Limpopo,1,2,0.03,2,0.03
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,None,Gauteng,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,black,FreeState,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,black,Gauteng,1,12,0.2,12,0.2
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,black,KwazuluNatal,1,3,0.05,3,0.05
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,black,Limpopo,6,6,0.1,1,0.02
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,black,Mpumalanga,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,black,NorthWest,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,coloured,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,coloured,WesternCape,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,female,white,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,None,Gauteng,1,39,0.65,39,0.65
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,None,Limpopo,1,2,0.03,2,0.03
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,None,WesternCape,4,9,0.15,2.25,0.04
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,Gauteng,53,301,5.02,5.68,0.09
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,KwazuluNatal,18,57,0.95,3.17,0.05
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,Mpumalanga,18,43,0.72,2.39,0.04
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,NorthWest,4,14,0.23,3.5,0.06
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,NorthernCape,1,16,0.27,16,0.27
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,black,WesternCape,13,127,2.12,9.77,0.16
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,EasternCape,1,21,0.35,21,0.35
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,FreeState,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,Gauteng,1,21,0.35,21,0.35
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,KwazuluNatal,2,2,0.03,1,0.02
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,NorthernCape,5,2,0.03,0.4,0.01
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,coloured,WesternCape,23,134,2.23,5.83,0.1
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,indian_asian,EasternCape,1,15,0.25,15,0.25
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,indian_asian,Gauteng,5,110,1.83,22,0.37
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,5,22,0.37,4.4,0.07
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,indian_asian,Limpopo,10,57,0.95,5.7,0.1
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,indian_asian,WesternCape,1,33,0.55,33,0.55
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,other,EasternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,other,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,other,WesternCape,2,67,1.12,33.5,0.56
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,white,EasternCape,1,5,0.08,5,0.08
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,white,FreeState,1,1,0.02,1,0.02
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,white,Gauteng,11,45,0.75,4.09,0.07
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,white,Mpumalanga,1,29,0.48,29,0.48
+2016,Feb,Normal_month,7,Weekend,Young Adulthood,male,white,NorthWest,3,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Adolescence,female,black,EasternCape,2,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Adolescence,female,indian_asian,KwazuluNatal,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekday,Adolescence,male,black,Gauteng,2,21,0.35,10.5,0.18
+2016,Feb,Normal_month,8,Weekday,Adolescence,male,black,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Adolescence,male,coloured,NorthernCape,1,5,0.08,5,0.08
+2016,Feb,Normal_month,8,Weekday,Adolescence,male,indian_asian,Limpopo,2,6,0.1,3,0.05
+2016,Feb,Normal_month,8,Weekday,Adolescence,male,other,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Adolescence,male,white,Gauteng,4,2,0.03,0.5,0.01
+2016,Feb,Normal_month,8,Weekday,Childhood,None,None,None,7,25,0.42,3.57,0.06
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,black,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,black,Gauteng,3,42,0.7,14,0.23
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,black,Mpumalanga,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,black,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,coloured,WesternCape,3,15,0.25,5,0.08
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,indian_asian,Gauteng,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,female,white,Gauteng,1,8,0.13,8,0.13
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,EasternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,FreeState,4,8,0.13,2,0.03
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,Gauteng,2,14,0.23,7,0.12
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,KwazuluNatal,3,4,0.07,1.33,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,NorthWest,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,None,WesternCape,4,15,0.25,3.75,0.06
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,EasternCape,5,80,1.33,16,0.27
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,FreeState,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,Gauteng,19,49,0.82,2.58,0.04
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,KwazuluNatal,5,77,1.28,15.4,0.26
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,Limpopo,3,13,0.22,4.33,0.07
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,Mpumalanga,4,6,0.1,1.5,0.03
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,NorthWest,2,2,0.03,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,black,WesternCape,3,4,0.07,1.33,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,EasternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,FreeState,1,13,0.22,13,0.22
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,Gauteng,2,22,0.37,11,0.18
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,NorthernCape,2,25,0.42,12.5,0.21
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,coloured,WesternCape,20,154,2.57,7.7,0.13
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,indian_asian,Gauteng,7,78,1.3,11.14,0.19
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,indian_asian,Limpopo,3,60,1,20,0.33
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,indian_asian,WesternCape,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,other,Gauteng,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,white,EasternCape,1,3,0.05,3,0.05
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,white,Gauteng,17,525,8.75,30.88,0.51
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,white,KwazuluNatal,3,20,0.33,6.67,0.11
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,white,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Adulthood,male,white,WesternCape,3,110,1.83,36.67,0.61
+2016,Feb,Normal_month,8,Weekday,Middle Childhood,female,black,WesternCape,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,8,Weekday,Middle Childhood,female,white,WesternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Middle Childhood,male,black,Gauteng,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Middle Childhood,male,coloured,Limpopo,2,2,0.03,1,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,None,Gauteng,3,4,0.07,1.33,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,None,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,black,Gauteng,12,36,0.6,3,0.05
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,black,KwazuluNatal,4,18,0.3,4.5,0.08
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,black,Limpopo,3,3,0.05,1,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,black,Mpumalanga,4,75,1.25,18.75,0.31
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,black,NorthernCape,1,13,0.22,13,0.22
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,coloured,EasternCape,2,2,0.03,1,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,coloured,KwazuluNatal,1,20,0.33,20,0.33
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,coloured,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,coloured,WesternCape,5,5,0.08,1,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,indian_asian,Gauteng,1,4,0.07,4,0.07
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,white,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,white,FreeState,1,4,0.07,4,0.07
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,white,Gauteng,5,6,0.1,1.2,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,female,white,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,EasternCape,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,FreeState,2,3,0.05,1.5,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,Gauteng,7,16,0.27,2.29,0.04
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,KwazuluNatal,3,2,0.03,0.67,0.01
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,Mpumalanga,8,132,2.2,16.5,0.28
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,NorthernCape,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,None,WesternCape,12,425,7.08,35.42,0.59
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,EasternCape,2,28,0.47,14,0.23
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,FreeState,3,130,2.17,43.33,0.72
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,Gauteng,51,243,4.05,4.76,0.08
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,KwazuluNatal,14,17,0.28,1.21,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,Limpopo,14,34,0.57,2.43,0.04
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,Mpumalanga,14,88,1.47,6.29,0.1
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,NorthWest,8,49,0.82,6.13,0.1
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,NorthernCape,6,2,0.03,0.33,0.01
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,black,WesternCape,9,14,0.23,1.56,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,coloured,EasternCape,12,31,0.52,2.58,0.04
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,coloured,Gauteng,8,60,1,7.5,0.13
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,coloured,KwazuluNatal,3,6,0.1,2,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,coloured,Mpumalanga,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,coloured,NorthernCape,4,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,coloured,WesternCape,61,393,6.55,6.44,0.11
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,EasternCape,7,158,2.63,22.57,0.38
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,FreeState,2,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,Gauteng,25,171,2.85,6.84,0.11
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,21,22,0.37,1.05,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,Limpopo,36,217,3.62,6.03,0.1
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,6,69,1.15,11.5,0.19
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,indian_asian,WesternCape,2,7,0.12,3.5,0.06
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,other,Gauteng,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,other,KwazuluNatal,2,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,other,WesternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,EasternCape,9,33,0.55,3.67,0.06
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,FreeState,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,Gauteng,35,477,7.95,13.63,0.23
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,KwazuluNatal,5,140,2.33,28,0.47
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,Mpumalanga,5,8,0.13,1.6,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,NorthWest,3,8,0.13,2.67,0.04
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,NorthernCape,3,32,0.53,10.67,0.18
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,white,WesternCape,10,16,0.27,1.6,0.03
+2016,Feb,Normal_month,8,Weekday,Young Adulthood,male,,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekday,Young Old,male,coloured,WesternCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekend,Adolescence,male,black,NorthWest,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekend,Adolescence,male,black,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Adolescence,male,white,Gauteng,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekend,Childhood,None,None,None,7,36,0.6,5.14,0.09
+2016,Feb,Normal_month,8,Weekend,Eldest,female,None,EasternCape,2,13,0.22,6.5,0.11
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,female,black,EasternCape,2,2,0.03,1,0.02
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,None,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,None,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,black,FreeState,1,5,0.08,5,0.08
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,black,Gauteng,7,16,0.27,2.29,0.04
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,black,KwazuluNatal,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,black,Limpopo,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,black,WesternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,coloured,EasternCape,1,42,0.7,42,0.7
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,coloured,WesternCape,7,6,0.1,0.86,0.01
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,indian_asian,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,white,EasternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,white,Gauteng,4,68,1.13,17,0.28
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Middle Adulthood,male,white,WesternCape,1,20,0.33,20,0.33
+2016,Feb,Normal_month,8,Weekend,Middle Childhood,female,black,WesternCape,2,2,0.03,1,0.02
+2016,Feb,Normal_month,8,Weekend,Middle Childhood,male,indian_asian,Limpopo,1,27,0.45,27,0.45
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,None,Gauteng,2,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,black,EasternCape,2,6,0.1,3,0.05
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,black,Gauteng,5,117,1.95,23.4,0.39
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,black,Mpumalanga,1,6,0.1,6,0.1
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,black,NorthernCape,1,1,0.02,1,0.02
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,black,WesternCape,2,34,0.57,17,0.28
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,coloured,WesternCape,4,3,0.05,0.75,0.01
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,female,indian_asian,Gauteng,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,None,EasternCape,4,8,0.13,2,0.03
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,None,Gauteng,2,1,0.02,0.5,0.01
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,None,Mpumalanga,3,1,0.02,0.33,0.01
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,None,WesternCape,4,3,0.05,0.75,0.01
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,EasternCape,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,FreeState,3,43,0.72,14.33,0.24
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,Gauteng,30,396,6.6,13.2,0.22
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,KwazuluNatal,5,25,0.42,5,0.08
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,Limpopo,8,57,0.95,7.13,0.12
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,Mpumalanga,7,37,0.62,5.29,0.09
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,NorthWest,3,3,0.05,1,0.02
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,NorthernCape,1,3,0.05,3,0.05
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,black,WesternCape,8,24,0.4,3,0.05
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,coloured,EasternCape,3,15,0.25,5,0.08
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,coloured,KwazuluNatal,1,11,0.18,11,0.18
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,coloured,NorthernCape,1,3,0.05,3,0.05
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,coloured,WesternCape,19,264,4.4,13.89,0.23
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,indian_asian,EasternCape,5,128,2.13,25.6,0.43
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,indian_asian,Gauteng,9,141,2.35,15.67,0.26
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,5,29,0.48,5.8,0.1
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,indian_asian,Limpopo,12,204,3.4,17,0.28
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,indian_asian,WesternCape,1,5,0.08,5,0.08
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,other,Gauteng,4,134,2.23,33.5,0.56
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,white,EasternCape,1,2,0.03,2,0.03
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,white,Gauteng,8,130,2.17,16.25,0.27
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,white,KwazuluNatal,2,4,0.07,2,0.03
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,white,Mpumalanga,4,9,0.15,2.25,0.04
+2016,Feb,Normal_month,8,Weekend,Young Adulthood,male,white,WesternCape,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,1,Weekday,Adolescence,female,black,EasternCape,1,9,0.15,9,0.15
+2016,Jan,Normal_month,1,Weekday,Adolescence,male,None,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekday,Adolescence,male,black,Limpopo,2,21,0.35,10.5,0.18
+2016,Jan,Normal_month,1,Weekday,Adolescence,male,black,Mpumalanga,1,9,0.15,9,0.15
+2016,Jan,Normal_month,1,Weekday,Adolescence,male,other,EasternCape,2,4,0.07,2,0.03
+2016,Jan,Normal_month,1,Weekday,Adolescence,male,white,Mpumalanga,1,6,0.1,6,0.1
+2016,Jan,Normal_month,1,Weekday,Childhood,None,None,None,16,34,0.57,2.13,0.04
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,female,black,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,female,black,FreeState,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,female,black,Gauteng,3,74,1.23,24.67,0.41
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,female,indian_asian,Mpumalanga,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,female,white,Gauteng,2,10,0.17,5,0.08
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,female,white,KwazuluNatal,1,80,1.33,80,1.33
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,None,Gauteng,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,None,Mpumalanga,1,17,0.28,17,0.28
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,None,WesternCape,3,10,0.17,3.33,0.06
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,FreeState,2,41,0.68,20.5,0.34
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,Gauteng,18,74,1.23,4.11,0.07
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,KwazuluNatal,5,267,4.45,53.4,0.89
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,Limpopo,3,3,0.05,1,0.02
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,Mpumalanga,3,3,0.05,1,0.02
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,NorthWest,2,6,0.1,3,0.05
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,black,WesternCape,2,6,0.1,3,0.05
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,coloured,EasternCape,2,32,0.53,16,0.27
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,coloured,FreeState,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,coloured,NorthernCape,3,5,0.08,1.67,0.03
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,coloured,WesternCape,7,113,1.88,16.14,0.27
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,indian_asian,Gauteng,1,23,0.38,23,0.38
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,other,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,other,WesternCape,2,4,0.07,2,0.03
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,white,EasternCape,1,14,0.23,14,0.23
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,white,Gauteng,5,15,0.25,3,0.05
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Middle Adulthood,male,white,WesternCape,1,52,0.87,52,0.87
+2016,Jan,Normal_month,1,Weekday,Middle Childhood,female,None,EasternCape,3,8,0.13,2.67,0.04
+2016,Jan,Normal_month,1,Weekday,Middle Childhood,female,coloured,Mpumalanga,1,6,0.1,6,0.1
+2016,Jan,Normal_month,1,Weekday,Middle Childhood,female,indian_asian,WesternCape,1,2,0.03,2,0.03
+2016,Jan,Normal_month,1,Weekday,Middle Childhood,male,coloured,WesternCape,3,5,0.08,1.67,0.03
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,None,FreeState,1,10,0.17,10,0.17
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,None,Gauteng,5,3,0.05,0.6,0.01
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,None,NorthernCape,2,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,EasternCape,1,16,0.27,16,0.27
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,FreeState,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,Gauteng,6,38,0.63,6.33,0.11
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,KwazuluNatal,9,124,2.07,13.78,0.23
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,Limpopo,2,9,0.15,4.5,0.08
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,Mpumalanga,4,5,0.08,1.25,0.02
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,NorthWest,3,1,0.02,0.33,0.01
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,NorthernCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,black,WesternCape,3,35,0.58,11.67,0.19
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,coloured,Gauteng,2,13,0.22,6.5,0.11
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,coloured,NorthernCape,1,32,0.53,32,0.53
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,coloured,WesternCape,2,7,0.12,3.5,0.06
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,indian_asian,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,indian_asian,WesternCape,1,4,0.07,4,0.07
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,other,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,white,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,white,Limpopo,1,2,0.03,2,0.03
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,female,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,None,Gauteng,3,56,0.93,18.67,0.31
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,None,KwazuluNatal,4,16,0.27,4,0.07
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,None,Limpopo,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,None,Mpumalanga,4,18,0.3,4.5,0.08
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,None,WesternCape,3,103,1.72,34.33,0.57
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,EasternCape,24,70,1.17,2.92,0.05
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,Gauteng,47,397,6.62,8.45,0.14
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,KwazuluNatal,18,153,2.55,8.5,0.14
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,Limpopo,7,23,0.38,3.29,0.05
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,Mpumalanga,17,125,2.08,7.35,0.12
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,NorthWest,7,27,0.45,3.86,0.06
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,NorthernCape,4,2,0.03,0.5,0.01
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,black,WesternCape,6,89,1.48,14.83,0.25
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,coloured,EasternCape,5,198,3.3,39.6,0.66
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,coloured,Gauteng,2,8,0.13,4,0.07
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,coloured,KwazuluNatal,1,27,0.45,27,0.45
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,coloured,Mpumalanga,1,7,0.12,7,0.12
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,coloured,WesternCape,19,167,2.78,8.79,0.15
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,indian_asian,Gauteng,7,11,0.18,1.57,0.03
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,4,44,0.73,11,0.18
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,indian_asian,Limpopo,1,12,0.2,12,0.2
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,60,1,60,1
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,indian_asian,WesternCape,1,22,0.37,22,0.37
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,other,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,other,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,white,EasternCape,5,80,1.33,16,0.27
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,white,Gauteng,18,151,2.52,8.39,0.14
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,white,Mpumalanga,1,3,0.05,3,0.05
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekday,Young Adulthood,male,white,WesternCape,5,33,0.55,6.6,0.11
+2016,Jan,Normal_month,1,Weekend,Adolescence,male,black,Limpopo,3,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Childhood,None,None,None,7,60,1,8.57,0.14
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,female,black,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,None,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,None,WesternCape,2,38,0.63,19,0.32
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,black,Gauteng,8,128,2.13,16,0.27
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,black,KwazuluNatal,2,67,1.12,33.5,0.56
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,black,Mpumalanga,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,black,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,coloured,EasternCape,2,7,0.12,3.5,0.06
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,coloured,FreeState,1,10,0.17,10,0.17
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,coloured,WesternCape,2,5,0.08,2.5,0.04
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,white,FreeState,1,2,0.03,2,0.03
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Adulthood,male,white,NorthernCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Childhood,female,indian_asian,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Middle Childhood,female,other,WesternCape,1,39,0.65,39,0.65
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,black,EasternCape,1,36,0.6,36,0.6
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,black,Gauteng,4,1,0.02,0.25,0
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,black,Limpopo,1,14,0.23,14,0.23
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,black,Mpumalanga,1,2,0.03,2,0.03
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,black,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,coloured,WesternCape,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,indian_asian,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,white,FreeState,1,5,0.08,5,0.08
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,female,white,WesternCape,1,3,0.05,3,0.05
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,None,Gauteng,1,16,0.27,16,0.27
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,None,Mpumalanga,1,22,0.37,22,0.37
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,None,WesternCape,7,44,0.73,6.29,0.1
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,EasternCape,7,241,4.02,34.43,0.57
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,Gauteng,20,75,1.25,3.75,0.06
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,KwazuluNatal,3,10,0.17,3.33,0.06
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,Limpopo,6,8,0.13,1.33,0.02
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,Mpumalanga,6,55,0.92,9.17,0.15
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,black,WesternCape,2,127,2.12,63.5,1.06
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,coloured,Gauteng,2,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,coloured,WesternCape,15,112,1.87,7.47,0.12
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,indian_asian,Gauteng,1,51,0.85,51,0.85
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,4,12,0.2,3,0.05
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,1,2,0.03,2,0.03
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,white,Gauteng,4,33,0.55,8.25,0.14
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,white,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,white,NorthWest,2,4,0.07,2,0.03
+2016,Jan,Normal_month,1,Weekend,Young Adulthood,male,white,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,1,Weekend,Young Old,male,coloured,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekday,Adolescence,female,black,EasternCape,1,4,0.07,4,0.07
+2016,Jan,Normal_month,2,Weekday,Adolescence,female,black,Mpumalanga,2,194,3.23,97,1.62
+2016,Jan,Normal_month,2,Weekday,Adolescence,male,black,Gauteng,9,92,1.53,10.22,0.17
+2016,Jan,Normal_month,2,Weekday,Adolescence,male,coloured,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Adolescence,male,coloured,WesternCape,1,2,0.03,2,0.03
+2016,Jan,Normal_month,2,Weekday,Adolescence,male,white,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Childhood,None,None,None,12,65,1.08,5.42,0.09
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,female,black,EasternCape,1,44,0.73,44,0.73
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,female,indian_asian,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,female,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,None,Gauteng,4,3,0.05,0.75,0.01
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,EasternCape,4,3,0.05,0.75,0.01
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,FreeState,1,179,2.98,179,2.98
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,Gauteng,21,141,2.35,6.71,0.11
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,KwazuluNatal,6,30,0.5,5,0.08
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,Limpopo,3,24,0.4,8,0.13
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,Mpumalanga,7,117,1.95,16.71,0.28
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,black,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,coloured,EasternCape,3,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,coloured,NorthernCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,coloured,WesternCape,12,51,0.85,4.25,0.07
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,indian_asian,Gauteng,2,12,0.2,6,0.1
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,3,16,0.27,5.33,0.09
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,other,WesternCape,1,15,0.25,15,0.25
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,white,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,white,FreeState,1,2,0.03,2,0.03
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,white,Gauteng,5,2,0.03,0.4,0.01
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Middle Adulthood,male,white,WesternCape,1,34,0.57,34,0.57
+2016,Jan,Normal_month,2,Weekday,Middle Childhood,male,black,Limpopo,3,42,0.7,14,0.23
+2016,Jan,Normal_month,2,Weekday,Middle Childhood,male,white,EasternCape,3,8,0.13,2.67,0.04
+2016,Jan,Normal_month,2,Weekday,Middle Childhood,male,white,Gauteng,1,5,0.08,5,0.08
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,None,WesternCape,3,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,black,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,black,Gauteng,8,54,0.9,6.75,0.11
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,black,KwazuluNatal,3,44,0.73,14.67,0.24
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,black,Limpopo,2,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,black,Mpumalanga,3,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,black,WesternCape,5,143,2.38,28.6,0.48
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,coloured,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,indian_asian,Gauteng,1,3,0.05,3,0.05
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,indian_asian,Limpopo,1,2,0.03,2,0.03
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,white,Gauteng,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,female,white,KwazuluNatal,1,10,0.17,10,0.17
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,None,Gauteng,5,45,0.75,9,0.15
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,None,KwazuluNatal,5,11,0.18,2.2,0.04
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,None,Mpumalanga,7,12,0.2,1.71,0.03
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,None,WesternCape,10,57,0.95,5.7,0.1
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,EasternCape,6,63,1.05,10.5,0.18
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,FreeState,2,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,Gauteng,59,273,4.55,4.63,0.08
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,KwazuluNatal,8,61,1.02,7.63,0.13
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,Limpopo,16,71,1.18,4.44,0.07
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,Mpumalanga,19,129,2.15,6.79,0.11
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,NorthWest,10,22,0.37,2.2,0.04
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,NorthernCape,7,40,0.67,5.71,0.1
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,black,WesternCape,5,29,0.48,5.8,0.1
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,coloured,EasternCape,7,16,0.27,2.29,0.04
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,coloured,Gauteng,3,33,0.55,11,0.18
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,coloured,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,coloured,WesternCape,19,137,2.28,7.21,0.12
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,indian_asian,Gauteng,4,16,0.27,4,0.07
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,12,147,2.45,12.25,0.2
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,indian_asian,Limpopo,2,8,0.13,4,0.07
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,11,0.18,11,0.18
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,EasternCape,3,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,FreeState,1,5,0.08,5,0.08
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,Gauteng,10,64,1.07,6.4,0.11
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,KwazuluNatal,3,9,0.15,3,0.05
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,Limpopo,2,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,Mpumalanga,3,14,0.23,4.67,0.08
+2016,Jan,Normal_month,2,Weekday,Young Adulthood,male,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekday,Young Old,male,coloured,WesternCape,1,3,0.05,3,0.05
+2016,Jan,Normal_month,2,Weekend,Adolescence,female,black,EasternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekend,Adolescence,female,black,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekend,Adolescence,male,black,Gauteng,3,3,0.05,1,0.02
+2016,Jan,Normal_month,2,Weekend,Childhood,None,None,None,2,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Childhood,male,None,None,1,5,0.08,5,0.08
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,female,black,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,None,Gauteng,4,1,0.02,0.25,0
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,None,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,black,EasternCape,1,2,0.03,2,0.03
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,black,Gauteng,5,23,0.38,4.6,0.08
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,black,Limpopo,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,black,Mpumalanga,3,13,0.22,4.33,0.07
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,coloured,EasternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,coloured,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,coloured,NorthernCape,1,5,0.08,5,0.08
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,coloured,WesternCape,4,10,0.17,2.5,0.04
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,white,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekend,Middle Adulthood,male,white,WesternCape,1,17,0.28,17,0.28
+2016,Jan,Normal_month,2,Weekend,Middle Childhood,male,white,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,female,black,Gauteng,5,97,1.62,19.4,0.32
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,female,black,WesternCape,1,3,0.05,3,0.05
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,female,coloured,EasternCape,1,5,0.08,5,0.08
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,female,coloured,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,None,FreeState,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,None,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,None,KwazuluNatal,1,5,0.08,5,0.08
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,None,Mpumalanga,6,2,0.03,0.33,0.01
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,None,WesternCape,2,10,0.17,5,0.08
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,EasternCape,2,7,0.12,3.5,0.06
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,Gauteng,21,233,3.88,11.1,0.18
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,KwazuluNatal,5,36,0.6,7.2,0.12
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,Limpopo,5,15,0.25,3,0.05
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,Mpumalanga,12,39,0.65,3.25,0.05
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,NorthernCape,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,black,WesternCape,2,2,0.03,1,0.02
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,coloured,Gauteng,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,coloured,NorthernCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,coloured,WesternCape,10,127,2.12,12.7,0.21
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,indian_asian,Gauteng,1,2,0.03,2,0.03
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,2,21,0.35,10.5,0.18
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,indian_asian,Limpopo,2,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,1,6,0.1,6,0.1
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,indian_asian,WesternCape,1,6,0.1,6,0.1
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,white,Gauteng,4,27,0.45,6.75,0.11
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,white,KwazuluNatal,1,65,1.08,65,1.08
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,white,Limpopo,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,white,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,2,Weekend,Young Adulthood,male,white,WesternCape,2,5,0.08,2.5,0.04
+2016,Jan,Normal_month,3,Weekday,Adolescence,female,coloured,NorthernCape,1,4,0.07,4,0.07
+2016,Jan,Normal_month,3,Weekday,Adolescence,male,black,Gauteng,5,3,0.05,0.6,0.01
+2016,Jan,Normal_month,3,Weekday,Adolescence,male,black,Limpopo,2,15,0.25,7.5,0.13
+2016,Jan,Normal_month,3,Weekday,Adolescence,male,coloured,EasternCape,2,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Adolescence,male,coloured,Gauteng,2,56,0.93,28,0.47
+2016,Jan,Normal_month,3,Weekday,Adolescence,male,indian_asian,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Adolescence,male,white,Gauteng,1,3,0.05,3,0.05
+2016,Jan,Normal_month,3,Weekday,Childhood,None,None,None,12,30,0.5,2.5,0.04
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,female,black,EasternCape,1,3,0.05,3,0.05
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,female,black,FreeState,2,32,0.53,16,0.27
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,female,black,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,female,black,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,None,Gauteng,2,55,0.92,27.5,0.46
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,None,WesternCape,4,45,0.75,11.25,0.19
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,black,EasternCape,3,28,0.47,9.33,0.16
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,black,Gauteng,18,145,2.42,8.06,0.13
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,black,KwazuluNatal,7,72,1.2,10.29,0.17
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,black,Limpopo,2,33,0.55,16.5,0.28
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,black,Mpumalanga,5,29,0.48,5.8,0.1
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,black,WesternCape,5,20,0.33,4,0.07
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,coloured,EasternCape,1,23,0.38,23,0.38
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,coloured,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,coloured,Limpopo,2,18,0.3,9,0.15
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,coloured,NorthernCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,coloured,WesternCape,13,262,4.37,20.15,0.34
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,indian_asian,Gauteng,2,2,0.03,1,0.02
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,indian_asian,NorthWest,1,16,0.27,16,0.27
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,other,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,white,EasternCape,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,white,FreeState,3,43,0.72,14.33,0.24
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,white,Gauteng,3,7,0.12,2.33,0.04
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,white,KwazuluNatal,4,98,1.63,24.5,0.41
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,white,Mpumalanga,2,5,0.08,2.5,0.04
+2016,Jan,Normal_month,3,Weekday,Middle Adulthood,male,white,WesternCape,2,13,0.22,6.5,0.11
+2016,Jan,Normal_month,3,Weekday,Middle Childhood,female,coloured,Mpumalanga,1,33,0.55,33,0.55
+2016,Jan,Normal_month,3,Weekday,Middle Childhood,male,black,Limpopo,2,5,0.08,2.5,0.04
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,None,NorthWest,1,5,0.08,5,0.08
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,black,FreeState,3,10,0.17,3.33,0.06
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,black,Gauteng,8,54,0.9,6.75,0.11
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,black,KwazuluNatal,3,61,1.02,20.33,0.34
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,black,Limpopo,1,12,0.2,12,0.2
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,black,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,black,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,coloured,Gauteng,2,5,0.08,2.5,0.04
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,coloured,WesternCape,5,93,1.55,18.6,0.31
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,1,2,0.03,2,0.03
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,female,white,Gauteng,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,None,FreeState,3,11,0.18,3.67,0.06
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,None,Gauteng,5,23,0.38,4.6,0.08
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,None,KwazuluNatal,4,4,0.07,1,0.02
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,None,Mpumalanga,1,1,0.02,1,0.02
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,None,WesternCape,4,41,0.68,10.25,0.17
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,EasternCape,11,137,2.28,12.45,0.21
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,FreeState,4,41,0.68,10.25,0.17
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,Gauteng,46,470,7.83,10.22,0.17
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,KwazuluNatal,9,15,0.25,1.67,0.03
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,Limpopo,14,73,1.22,5.21,0.09
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,Mpumalanga,21,94,1.57,4.48,0.07
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,NorthWest,3,68,1.13,22.67,0.38
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,NorthernCape,4,17,0.28,4.25,0.07
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,black,WesternCape,3,19,0.32,6.33,0.11
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,coloured,EasternCape,3,5,0.08,1.67,0.03
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,coloured,Gauteng,8,22,0.37,2.75,0.05
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,coloured,Mpumalanga,3,16,0.27,5.33,0.09
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,coloured,WesternCape,24,153,2.55,6.38,0.11
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,indian_asian,Gauteng,4,9,0.15,2.25,0.04
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,4,51,0.85,12.75,0.21
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,indian_asian,Limpopo,3,21,0.35,7,0.12
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,other,WesternCape,1,4,0.07,4,0.07
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,EasternCape,3,22,0.37,7.33,0.12
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,FreeState,1,3,0.05,3,0.05
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,Gauteng,10,16,0.27,1.6,0.03
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,KwazuluNatal,2,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,Mpumalanga,4,195,3.25,48.75,0.81
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekday,Young Adulthood,male,white,WesternCape,6,105,1.75,17.5,0.29
+2016,Jan,Normal_month,3,Weekday,Young Old,male,black,EasternCape,1,47,0.78,47,0.78
+2016,Jan,Normal_month,3,Weekend,Adolescence,male,black,Gauteng,2,10,0.17,5,0.08
+2016,Jan,Normal_month,3,Weekend,Adolescence,male,coloured,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Adolescence,male,coloured,Gauteng,1,8,0.13,8,0.13
+2016,Jan,Normal_month,3,Weekend,Childhood,None,None,None,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,female,black,EasternCape,1,17,0.28,17,0.28
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,female,black,Gauteng,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,female,black,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,None,EasternCape,1,33,0.55,33,0.55
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,None,Gauteng,2,61,1.02,30.5,0.51
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,black,EasternCape,3,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,black,Gauteng,6,46,0.77,7.67,0.13
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,black,Mpumalanga,2,77,1.28,38.5,0.64
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,black,NorthWest,2,12,0.2,6,0.1
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,black,WesternCape,1,17,0.28,17,0.28
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,coloured,WesternCape,5,38,0.63,7.6,0.13
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,indian_asian,WesternCape,1,32,0.53,32,0.53
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,white,EasternCape,2,9,0.15,4.5,0.08
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,white,FreeState,1,11,0.18,11,0.18
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,white,KwazuluNatal,1,26,0.43,26,0.43
+2016,Jan,Normal_month,3,Weekend,Middle Adulthood,male,white,NorthWest,1,3,0.05,3,0.05
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,None,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,black,EasternCape,2,92,1.53,46,0.77
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,black,Gauteng,5,8,0.13,1.6,0.03
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,black,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,black,Mpumalanga,3,9,0.15,3,0.05
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,black,NorthWest,1,22,0.37,22,0.37
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,coloured,WesternCape,1,2,0.03,2,0.03
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,None,Gauteng,5,3,0.05,0.6,0.01
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,None,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,None,NorthWest,3,15,0.25,5,0.08
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,None,WesternCape,1,52,0.87,52,0.87
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,FreeState,2,2,0.03,1,0.02
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,Gauteng,22,258,4.3,11.73,0.2
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,KwazuluNatal,3,13,0.22,4.33,0.07
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,Limpopo,4,67,1.12,16.75,0.28
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,Mpumalanga,14,65,1.08,4.64,0.08
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,NorthWest,3,20,0.33,6.67,0.11
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,black,NorthernCape,1,5,0.08,5,0.08
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,coloured,EasternCape,2,18,0.3,9,0.15
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,coloured,Gauteng,4,18,0.3,4.5,0.08
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,coloured,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,coloured,WesternCape,10,98,1.63,9.8,0.16
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,indian_asian,EasternCape,1,39,0.65,39,0.65
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,indian_asian,Gauteng,1,5,0.08,5,0.08
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,3,3,0.05,1,0.02
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,other,WesternCape,4,27,0.45,6.75,0.11
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,EasternCape,2,61,1.02,30.5,0.51
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,Gauteng,5,9,0.15,1.8,0.03
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,KwazuluNatal,1,56,0.93,56,0.93
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,Mpumalanga,1,4,0.07,4,0.07
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,NorthWest,1,6,0.1,6,0.1
+2016,Jan,Normal_month,3,Weekend,Young Adulthood,male,white,WesternCape,1,65,1.08,65,1.08
+2016,Jan,Normal_month,4,Weekday,Adolescence,male,black,Gauteng,4,15,0.25,3.75,0.06
+2016,Jan,Normal_month,4,Weekday,Adolescence,male,black,Limpopo,4,20,0.33,5,0.08
+2016,Jan,Normal_month,4,Weekday,Adolescence,male,coloured,Gauteng,2,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Adolescence,male,indian_asian,Gauteng,1,10,0.17,10,0.17
+2016,Jan,Normal_month,4,Weekday,Adolescence,male,white,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Childhood,None,None,None,4,5,0.08,1.25,0.02
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,female,black,Gauteng,3,9,0.15,3,0.05
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,female,indian_asian,Mpumalanga,1,17,0.28,17,0.28
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,None,Gauteng,1,2,0.03,2,0.03
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,None,Mpumalanga,2,57,0.95,28.5,0.48
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,None,WesternCape,1,16,0.27,16,0.27
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,black,EasternCape,3,4,0.07,1.33,0.02
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,black,Gauteng,14,110,1.83,7.86,0.13
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,black,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,black,Limpopo,4,3,0.05,0.75,0.01
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,black,Mpumalanga,8,49,0.82,6.13,0.1
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,black,NorthWest,3,1,0.02,0.33,0.01
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,coloured,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,coloured,NorthernCape,1,19,0.32,19,0.32
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,coloured,WesternCape,16,117,1.95,7.31,0.12
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,indian_asian,Gauteng,2,4,0.07,2,0.03
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,other,Gauteng,2,17,0.28,8.5,0.14
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,white,EasternCape,1,12,0.2,12,0.2
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,white,Gauteng,2,4,0.07,2,0.03
+2016,Jan,Normal_month,4,Weekday,Middle Adulthood,male,white,WesternCape,3,52,0.87,17.33,0.29
+2016,Jan,Normal_month,4,Weekday,Middle Childhood,male,None,WesternCape,1,4,0.07,4,0.07
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,None,Gauteng,1,36,0.6,36,0.6
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,None,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,None,WesternCape,4,20,0.33,5,0.08
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,black,EasternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,black,FreeState,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,black,Gauteng,9,32,0.53,3.56,0.06
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,black,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,black,Mpumalanga,2,40,0.67,20,0.33
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,coloured,EasternCape,2,9,0.15,4.5,0.08
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,coloured,WesternCape,2,2,0.03,1,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,1,4,0.07,4,0.07
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,female,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,None,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,None,KwazuluNatal,1,48,0.8,48,0.8
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,None,Mpumalanga,4,6,0.1,1.5,0.03
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,None,WesternCape,4,20,0.33,5,0.08
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,EasternCape,9,22,0.37,2.44,0.04
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,FreeState,4,14,0.23,3.5,0.06
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,Gauteng,51,232,3.87,4.55,0.08
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,KwazuluNatal,17,101,1.68,5.94,0.1
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,Limpopo,13,75,1.25,5.77,0.1
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,Mpumalanga,14,57,0.95,4.07,0.07
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,NorthWest,12,87,1.45,7.25,0.12
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,NorthernCape,8,9,0.15,1.13,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,black,WesternCape,3,19,0.32,6.33,0.11
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,coloured,EasternCape,4,17,0.28,4.25,0.07
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,coloured,Gauteng,4,22,0.37,5.5,0.09
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,coloured,KwazuluNatal,2,4,0.07,2,0.03
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,coloured,NorthernCape,1,10,0.17,10,0.17
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,coloured,WesternCape,18,152,2.53,8.44,0.14
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,indian_asian,FreeState,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,indian_asian,Gauteng,5,65,1.08,13,0.22
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,2,6,0.1,3,0.05
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,1,4,0.07,4,0.07
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,indian_asian,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,other,KwazuluNatal,1,2,0.03,2,0.03
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,other,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,white,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,white,Gauteng,14,67,1.12,4.79,0.08
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,white,KwazuluNatal,1,36,0.6,36,0.6
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,white,NorthWest,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,4,Weekday,Young Adulthood,male,white,NorthernCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekday,Young Old,male,black,EasternCape,1,3,0.05,3,0.05
+2016,Jan,Normal_month,4,Weekend,Adolescence,female,black,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Adolescence,female,coloured,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Adolescence,male,black,Gauteng,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,4,Weekend,Adolescence,male,indian_asian,Gauteng,2,11,0.18,5.5,0.09
+2016,Jan,Normal_month,4,Weekend,Eldest,female,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Eldest,male,black,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,female,black,EasternCape,1,19,0.32,19,0.32
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,None,Gauteng,2,6,0.1,3,0.05
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,None,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,Gauteng,3,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,KwazuluNatal,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,Limpopo,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,Mpumalanga,4,5,0.08,1.25,0.02
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,NorthWest,3,35,0.58,11.67,0.19
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,black,WesternCape,1,14,0.23,14,0.23
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,coloured,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,coloured,WesternCape,4,154,2.57,38.5,0.64
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,white,FreeState,1,5,0.08,5,0.08
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,white,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,white,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Middle Adulthood,male,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,female,None,WesternCape,2,19,0.32,9.5,0.16
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,female,black,Gauteng,4,27,0.45,6.75,0.11
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,female,black,Mpumalanga,1,5,0.08,5,0.08
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,female,coloured,EasternCape,2,2,0.03,1,0.02
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,1,13,0.22,13,0.22
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,None,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,EasternCape,5,51,0.85,10.2,0.17
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,FreeState,2,4,0.07,2,0.03
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,Gauteng,21,104,1.73,4.95,0.08
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,KwazuluNatal,3,140,2.33,46.67,0.78
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,Limpopo,4,52,0.87,13,0.22
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,Mpumalanga,3,3,0.05,1,0.02
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,NorthWest,7,128,2.13,18.29,0.3
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,black,NorthernCape,1,13,0.22,13,0.22
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,coloured,Gauteng,5,15,0.25,3,0.05
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,coloured,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,coloured,NorthernCape,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,coloured,WesternCape,16,269,4.48,16.81,0.28
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,indian_asian,EasternCape,1,27,0.45,27,0.45
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,indian_asian,Gauteng,2,2,0.03,1,0.02
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,1,9,0.15,9,0.15
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,indian_asian,NorthWest,1,19,0.32,19,0.32
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,white,Gauteng,3,3,0.05,1,0.02
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,white,KwazuluNatal,1,30,0.5,30,0.5
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,white,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,4,Weekend,Young Adulthood,male,white,WesternCape,2,4,0.07,2,0.03
+2016,Jan,Normal_month,53,Weekday,Adolescence,male,black,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Adolescence,male,other,Limpopo,1,2,0.03,2,0.03
+2016,Jan,Normal_month,53,Weekday,Childhood,None,None,None,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,female,None,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,female,black,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,female,coloured,WesternCape,1,6,0.1,6,0.1
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,male,black,Gauteng,3,1,0.02,0.33,0.01
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,male,black,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,male,coloured,WesternCape,6,4,0.07,0.67,0.01
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,1,9,0.15,9,0.15
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,male,indian_asian,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Middle Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Middle Childhood,female,None,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,female,None,Gauteng,3,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,female,black,Gauteng,1,28,0.47,28,0.47
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,female,black,NorthWest,2,2,0.03,1,0.02
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,female,coloured,NorthernCape,1,14,0.23,14,0.23
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,None,FreeState,1,3,0.05,3,0.05
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,None,Mpumalanga,4,10,0.17,2.5,0.04
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,None,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,black,EasternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,black,Gauteng,10,38,0.63,3.8,0.06
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,black,KwazuluNatal,3,54,0.9,18,0.3
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,black,Limpopo,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,black,Mpumalanga,4,4,0.07,1,0.02
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,coloured,WesternCape,4,8,0.13,2,0.03
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,indian_asian,EasternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,other,EasternCape,2,30,0.5,15,0.25
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,other,Gauteng,1,2,0.03,2,0.03
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,white,Gauteng,3,53,0.88,17.67,0.29
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,white,Mpumalanga,3,1,0.02,0.33,0.01
+2016,Jan,Normal_month,53,Weekday,Young Adulthood,male,white,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekend,Adolescence,female,black,Gauteng,1,9,0.15,9,0.15
+2016,Jan,Normal_month,53,Weekend,Adolescence,female,indian_asian,KwazuluNatal,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekend,Adolescence,male,black,KwazuluNatal,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,53,Weekend,Adolescence,male,black,Limpopo,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekend,Adolescence,male,black,Mpumalanga,2,4,0.07,2,0.03
+2016,Jan,Normal_month,53,Weekend,Adolescence,male,white,Gauteng,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Adolescence,male,white,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Childhood,None,None,None,3,20,0.33,6.67,0.11
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,female,None,Gauteng,1,4,0.07,4,0.07
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,female,black,Gauteng,2,16,0.27,8,0.13
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,female,coloured,NorthernCape,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,female,white,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,None,Gauteng,2,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,None,KwazuluNatal,1,4,0.07,4,0.07
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,None,WesternCape,1,6,0.1,6,0.1
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,black,EasternCape,2,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,black,Gauteng,4,4,0.07,1,0.02
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,black,KwazuluNatal,2,29,0.48,14.5,0.24
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,black,Mpumalanga,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,black,NorthWest,1,9,0.15,9,0.15
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,coloured,WesternCape,4,44,0.73,11,0.18
+2016,Jan,Normal_month,53,Weekend,Middle Adulthood,male,white,Gauteng,2,9,0.15,4.5,0.08
+2016,Jan,Normal_month,53,Weekend,Middle Childhood,female,None,EasternCape,2,137,2.28,68.5,1.14
+2016,Jan,Normal_month,53,Weekend,Middle Childhood,female,indian_asian,EasternCape,1,5,0.08,5,0.08
+2016,Jan,Normal_month,53,Weekend,Middle Childhood,male,coloured,WesternCape,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,None,Gauteng,2,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,black,EasternCape,2,1,0.02,0.5,0.01
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,black,Gauteng,3,18,0.3,6,0.1
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,black,KwazuluNatal,1,2,0.03,2,0.03
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,black,Limpopo,1,4,0.07,4,0.07
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,black,WesternCape,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,indian_asian,Gauteng,1,19,0.32,19,0.32
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,white,Gauteng,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,white,KwazuluNatal,1,2,0.03,2,0.03
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,female,white,NorthWest,2,28,0.47,14,0.23
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,None,Gauteng,3,2,0.03,0.67,0.01
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,None,KwazuluNatal,4,23,0.38,5.75,0.1
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,None,Mpumalanga,2,4,0.07,2,0.03
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,None,WesternCape,2,10,0.17,5,0.08
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,EasternCape,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,FreeState,4,37,0.62,9.25,0.15
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,Gauteng,12,93,1.55,7.75,0.13
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,KwazuluNatal,3,3,0.05,1,0.02
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,Limpopo,12,42,0.7,3.5,0.06
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,Mpumalanga,10,17,0.28,1.7,0.03
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,NorthWest,1,1,0.02,1,0.02
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,black,NorthernCape,3,4,0.07,1.33,0.02
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,coloured,Gauteng,2,47,0.78,23.5,0.39
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,coloured,WesternCape,8,260,4.33,32.5,0.54
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,indian_asian,EasternCape,3,1,0.02,0.33,0.01
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,EasternCape,1,13,0.22,13,0.22
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,Gauteng,5,42,0.7,8.4,0.14
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,KwazuluNatal,3,7,0.12,2.33,0.04
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,Limpopo,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,Mpumalanga,4,18,0.3,4.5,0.08
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Jan,Normal_month,53,Weekend,Young Adulthood,male,white,WesternCape,2,3,0.05,1.5,0.03
+2016,Jan,Normal_month,53,Weekend,Young Old,female,black,NorthernCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekday,Adolescence,female,black,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Adolescence,male,black,FreeState,2,16,0.27,8,0.13
+2016,Mar,Normal_month,9,Weekday,Adolescence,male,black,Gauteng,3,19,0.32,6.33,0.11
+2016,Mar,Normal_month,9,Weekday,Adolescence,male,black,KwazuluNatal,4,27,0.45,6.75,0.11
+2016,Mar,Normal_month,9,Weekday,Adolescence,male,black,WesternCape,4,52,0.87,13,0.22
+2016,Mar,Normal_month,9,Weekday,Adolescence,male,coloured,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Adolescence,male,white,Gauteng,1,3,0.05,3,0.05
+2016,Mar,Normal_month,9,Weekday,Childhood,None,None,None,17,66,1.1,3.88,0.06
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,female,None,EasternCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,female,black,Limpopo,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,female,coloured,WesternCape,2,129,2.15,64.5,1.08
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,female,indian_asian,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,female,indian_asian,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,female,indian_asian,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,None,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,None,Gauteng,4,19,0.32,4.75,0.08
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,None,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,None,Mpumalanga,1,6,0.1,6,0.1
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,None,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,EasternCape,3,13,0.22,4.33,0.07
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,Gauteng,23,173,2.88,7.52,0.13
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,KwazuluNatal,11,39,0.65,3.55,0.06
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,Limpopo,2,4,0.07,2,0.03
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,Mpumalanga,3,34,0.57,11.33,0.19
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,NorthWest,9,71,1.18,7.89,0.13
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,black,WesternCape,3,18,0.3,6,0.1
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,coloured,EasternCape,2,4,0.07,2,0.03
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,coloured,Gauteng,2,23,0.38,11.5,0.19
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,2,14,0.23,7,0.12
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,coloured,NorthernCape,4,13,0.22,3.25,0.05
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,coloured,WesternCape,15,139,2.32,9.27,0.15
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,indian_asian,Gauteng,11,58,0.97,5.27,0.09
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,3,17,0.28,5.67,0.09
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,indian_asian,Limpopo,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,indian_asian,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,EasternCape,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,Gauteng,11,148,2.47,13.45,0.22
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,KwazuluNatal,1,6,0.1,6,0.1
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,Mpumalanga,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,NorthWest,2,15,0.25,7.5,0.13
+2016,Mar,Normal_month,9,Weekday,Middle Adulthood,male,white,WesternCape,3,116,1.93,38.67,0.64
+2016,Mar,Normal_month,9,Weekday,Middle Childhood,male,black,Gauteng,2,12,0.2,6,0.1
+2016,Mar,Normal_month,9,Weekday,Middle Childhood,male,black,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Middle Childhood,male,coloured,Limpopo,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekday,Middle Childhood,male,indian_asian,Limpopo,1,2,0.03,2,0.03
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,None,Gauteng,7,1,0.02,0.14,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,Gauteng,11,155,2.58,14.09,0.23
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,Limpopo,1,27,0.45,27,0.45
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,Mpumalanga,2,16,0.27,8,0.13
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,NorthWest,3,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,NorthernCape,4,11,0.18,2.75,0.05
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,black,WesternCape,2,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,coloured,EasternCape,1,8,0.13,8,0.13
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,coloured,WesternCape,4,160,2.67,40,0.67
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,indian_asian,Gauteng,2,6,0.1,3,0.05
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,white,EasternCape,2,2,0.03,1,0.02
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,female,white,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,EasternCape,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,Gauteng,9,44,0.73,4.89,0.08
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,KwazuluNatal,5,14,0.23,2.8,0.05
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,Limpopo,3,1,0.02,0.33,0.01
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,Mpumalanga,4,44,0.73,11,0.18
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,None,WesternCape,9,46,0.77,5.11,0.09
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,EasternCape,8,47,0.78,5.88,0.1
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,FreeState,7,250,4.17,35.71,0.6
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,Gauteng,84,807,13.45,9.61,0.16
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,KwazuluNatal,23,41,0.68,1.78,0.03
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,Limpopo,16,145,2.42,9.06,0.15
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,Mpumalanga,30,271,4.52,9.03,0.15
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,NorthWest,9,31,0.52,3.44,0.06
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,NorthernCape,8,98,1.63,12.25,0.2
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,black,WesternCape,16,59,0.98,3.69,0.06
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,EasternCape,5,34,0.57,6.8,0.11
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,FreeState,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,Gauteng,12,89,1.48,7.42,0.12
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,KwazuluNatal,3,11,0.18,3.67,0.06
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,Limpopo,2,13,0.22,6.5,0.11
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,NorthernCape,4,6,0.1,1.5,0.03
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,coloured,WesternCape,54,302,5.03,5.59,0.09
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,EasternCape,1,23,0.38,23,0.38
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,Gauteng,11,52,0.87,4.73,0.08
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,14,166,2.77,11.86,0.2
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,Limpopo,11,66,1.1,6,0.1
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,3,41,0.68,13.67,0.23
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,NorthernCape,1,8,0.13,8,0.13
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,indian_asian,WesternCape,3,10,0.17,3.33,0.06
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,other,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,other,WesternCape,1,15,0.25,15,0.25
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,EasternCape,3,9,0.15,3,0.05
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,FreeState,6,40,0.67,6.67,0.11
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,Gauteng,47,395,6.58,8.4,0.14
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,Mpumalanga,3,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,NorthWest,4,65,1.08,16.25,0.27
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekday,Young Adulthood,male,white,WesternCape,13,50,0.83,3.85,0.06
+2016,Mar,Normal_month,9,Weekend,Adolescence,female,black,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Adolescence,female,coloured,Gauteng,1,2,0.03,2,0.03
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,black,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,black,KwazuluNatal,2,24,0.4,12,0.2
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,black,NorthWest,1,64,1.07,64,1.07
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,coloured,EasternCape,1,10,0.17,10,0.17
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,coloured,Gauteng,2,22,0.37,11,0.18
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,coloured,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,coloured,WesternCape,4,5,0.08,1.25,0.02
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,other,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Adolescence,male,white,Gauteng,2,6,0.1,3,0.05
+2016,Mar,Normal_month,9,Weekend,Childhood,None,None,None,11,138,2.3,12.55,0.21
+2016,Mar,Normal_month,9,Weekend,Eldest,male,black,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,female,black,Gauteng,2,39,0.65,19.5,0.33
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,female,indian_asian,Gauteng,1,5,0.08,5,0.08
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,female,indian_asian,WesternCape,1,5,0.08,5,0.08
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,female,white,Gauteng,1,5,0.08,5,0.08
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,female,white,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,None,Gauteng,6,108,1.8,18,0.3
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,None,KwazuluNatal,3,6,0.1,2,0.03
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,None,Mpumalanga,1,1,0.02,1,0.02
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,None,WesternCape,3,22,0.37,7.33,0.12
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,EasternCape,1,53,0.88,53,0.88
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,FreeState,1,3,0.05,3,0.05
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,Gauteng,9,120,2,13.33,0.22
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,KwazuluNatal,1,65,1.08,65,1.08
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,Mpumalanga,6,28,0.47,4.67,0.08
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,NorthWest,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,black,NorthernCape,2,45,0.75,22.5,0.38
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,coloured,EasternCape,3,5,0.08,1.67,0.03
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,coloured,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,coloured,NorthernCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,coloured,WesternCape,7,131,2.18,18.71,0.31
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,indian_asian,Gauteng,11,115,1.92,10.45,0.17
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,6,96,1.6,16,0.27
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,other,WesternCape,2,7,0.12,3.5,0.06
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,white,EasternCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,white,FreeState,1,13,0.22,13,0.22
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,white,Gauteng,4,11,0.18,2.75,0.05
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,white,KwazuluNatal,2,22,0.37,11,0.18
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,white,NorthWest,1,5,0.08,5,0.08
+2016,Mar,Normal_month,9,Weekend,Middle Adulthood,male,white,WesternCape,3,8,0.13,2.67,0.04
+2016,Mar,Normal_month,9,Weekend,Middle Childhood,male,indian_asian,EasternCape,1,5,0.08,5,0.08
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,None,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,black,Gauteng,3,23,0.38,7.67,0.13
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,black,KwazuluNatal,1,6,0.1,6,0.1
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,black,Mpumalanga,2,9,0.15,4.5,0.08
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,black,NorthernCape,1,42,0.7,42,0.7
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,black,WesternCape,2,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,coloured,EasternCape,2,6,0.1,3,0.05
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,coloured,WesternCape,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,indian_asian,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,7,82,1.37,11.71,0.2
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,white,Gauteng,2,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,female,,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,None,FreeState,1,2,0.03,2,0.03
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,None,Gauteng,10,123,2.05,12.3,0.21
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,None,KwazuluNatal,3,4,0.07,1.33,0.02
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,None,NorthWest,1,25,0.42,25,0.42
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,None,WesternCape,5,19,0.32,3.8,0.06
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,EasternCape,6,50,0.83,8.33,0.14
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,FreeState,4,5,0.08,1.25,0.02
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,Gauteng,52,431,7.18,8.29,0.14
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,KwazuluNatal,12,21,0.35,1.75,0.03
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,Limpopo,7,13,0.22,1.86,0.03
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,Mpumalanga,21,124,2.07,5.9,0.1
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,NorthWest,6,13,0.22,2.17,0.04
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,black,WesternCape,8,10,0.17,1.25,0.02
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,coloured,EasternCape,4,14,0.23,3.5,0.06
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,coloured,Gauteng,2,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,coloured,KwazuluNatal,4,1,0.02,0.25,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,coloured,NorthernCape,5,26,0.43,5.2,0.09
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,coloured,WesternCape,41,230,3.83,5.61,0.09
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,FreeState,1,9,0.15,9,0.15
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,Gauteng,12,169,2.82,14.08,0.23
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,8,14,0.23,1.75,0.03
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,Limpopo,6,140,2.33,23.33,0.39
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,indian_asian,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,other,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,EasternCape,3,38,0.63,12.67,0.21
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,FreeState,2,2,0.03,1,0.02
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,Gauteng,26,460,7.67,17.69,0.29
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,KwazuluNatal,2,58,0.97,29,0.48
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,Limpopo,1,5,0.08,5,0.08
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,Mpumalanga,5,18,0.3,3.6,0.06
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,NorthWest,2,12,0.2,6,0.1
+2016,Mar,Normal_month,9,Weekend,Young Adulthood,male,white,WesternCape,3,126,2.1,42,0.7
+2016,Mar,Normal_month,10,Weekday,Adolescence,female,black,EasternCape,4,15,0.25,3.75,0.06
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,None,Gauteng,1,30,0.5,30,0.5
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,black,Gauteng,1,2,0.03,2,0.03
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,black,KwazuluNatal,1,47,0.78,47,0.78
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,black,WesternCape,1,14,0.23,14,0.23
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,coloured,EasternCape,2,8,0.13,4,0.07
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,coloured,Gauteng,1,22,0.37,22,0.37
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,indian_asian,Gauteng,2,49,0.82,24.5,0.41
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,indian_asian,NorthWest,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,other,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,white,Gauteng,2,17,0.28,8.5,0.14
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,white,Mpumalanga,1,3,0.05,3,0.05
+2016,Mar,Normal_month,10,Weekday,Adolescence,male,white,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Childhood,None,None,None,16,113,1.88,7.06,0.12
+2016,Mar,Normal_month,10,Weekday,Eldest,male,None,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Eldest,male,indian_asian,Gauteng,1,6,0.1,6,0.1
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,female,None,WesternCape,1,6,0.1,6,0.1
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,female,coloured,WesternCape,2,19,0.32,9.5,0.16
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,female,indian_asian,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,female,white,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,None,Gauteng,3,13,0.22,4.33,0.07
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,None,KwazuluNatal,3,6,0.1,2,0.03
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,None,Mpumalanga,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,None,NorthernCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,EasternCape,5,43,0.72,8.6,0.14
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,FreeState,2,85,1.42,42.5,0.71
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,Gauteng,15,138,2.3,9.2,0.15
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,KwazuluNatal,9,141,2.35,15.67,0.26
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,Limpopo,1,2,0.03,2,0.03
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,Mpumalanga,3,9,0.15,3,0.05
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,NorthWest,2,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,black,WesternCape,3,29,0.48,9.67,0.16
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,coloured,EasternCape,1,16,0.27,16,0.27
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,coloured,Gauteng,8,10,0.17,1.25,0.02
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,3,88,1.47,29.33,0.49
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,coloured,NorthernCape,1,5,0.08,5,0.08
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,coloured,WesternCape,10,114,1.9,11.4,0.19
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,indian_asian,Gauteng,2,16,0.27,8,0.13
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,indian_asian,Limpopo,1,16,0.27,16,0.27
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,other,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,white,Gauteng,7,43,0.72,6.14,0.1
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,white,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Middle Adulthood,male,white,WesternCape,5,29,0.48,5.8,0.1
+2016,Mar,Normal_month,10,Weekday,Middle Childhood,female,black,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Middle Childhood,female,coloured,KwazuluNatal,1,179,2.98,179,2.98
+2016,Mar,Normal_month,10,Weekday,Middle Childhood,male,indian_asian,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Middle Childhood,male,indian_asian,Gauteng,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,None,Gauteng,11,3,0.05,0.27,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,None,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,black,Gauteng,3,6,0.1,2,0.03
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,black,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,black,Mpumalanga,4,4,0.07,1,0.02
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,black,NorthWest,2,24,0.4,12,0.2
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,black,NorthernCape,4,83,1.38,20.75,0.35
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,black,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,coloured,EasternCape,1,6,0.1,6,0.1
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,coloured,WesternCape,6,26,0.43,4.33,0.07
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,indian_asian,Gauteng,3,63,1.05,21,0.35
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,3,16,0.27,5.33,0.09
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,white,Gauteng,2,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,female,,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,None,EasternCape,5,31,0.52,6.2,0.1
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,None,FreeState,2,6,0.1,3,0.05
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,None,Gauteng,6,13,0.22,2.17,0.04
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,None,Limpopo,2,45,0.75,22.5,0.38
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,None,Mpumalanga,1,98,1.63,98,1.63
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,None,WesternCape,11,32,0.53,2.91,0.05
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,EasternCape,9,59,0.98,6.56,0.11
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,FreeState,10,139,2.32,13.9,0.23
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,Gauteng,89,587,9.78,6.6,0.11
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,KwazuluNatal,19,229,3.82,12.05,0.2
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,Limpopo,14,93,1.55,6.64,0.11
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,Mpumalanga,26,91,1.52,3.5,0.06
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,NorthWest,11,95,1.58,8.64,0.14
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,NorthernCape,8,57,0.95,7.13,0.12
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,black,WesternCape,6,167,2.78,27.83,0.46
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,coloured,EasternCape,3,177,2.95,59,0.98
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,coloured,Gauteng,10,132,2.2,13.2,0.22
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,coloured,KwazuluNatal,4,6,0.1,1.5,0.03
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,coloured,Mpumalanga,1,3,0.05,3,0.05
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,coloured,NorthernCape,5,27,0.45,5.4,0.09
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,coloured,WesternCape,42,336,5.6,8,0.13
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,EasternCape,2,36,0.6,18,0.3
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,FreeState,1,50,0.83,50,0.83
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,Gauteng,32,473,7.88,14.78,0.25
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,19,304,5.07,16,0.27
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,Limpopo,10,323,5.38,32.3,0.54
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,4,165,2.75,41.25,0.69
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,indian_asian,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,other,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,other,KwazuluNatal,1,2,0.03,2,0.03
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,other,WesternCape,2,12,0.2,6,0.1
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,EasternCape,8,40,0.67,5,0.08
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,FreeState,2,4,0.07,2,0.03
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,Gauteng,25,272,4.53,10.88,0.18
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,KwazuluNatal,2,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,Limpopo,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,Mpumalanga,6,39,0.65,6.5,0.11
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,white,WesternCape,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,10,Weekday,Young Adulthood,male,,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Old,male,coloured,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekday,Young Old,male,white,Gauteng,1,2,0.03,2,0.03
+2016,Mar,Normal_month,10,Weekday,Young Old,male,white,NorthernCape,1,4,0.07,4,0.07
+2016,Mar,Normal_month,10,Weekend,Adolescence,male,black,Gauteng,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,10,Weekend,Adolescence,male,black,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Adolescence,male,coloured,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Adolescence,male,indian_asian,Gauteng,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,10,Weekend,Adolescence,male,white,Gauteng,1,6,0.1,6,0.1
+2016,Mar,Normal_month,10,Weekend,Childhood,None,None,None,8,25,0.42,3.13,0.05
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,female,indian_asian,Gauteng,1,11,0.18,11,0.18
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,female,indian_asian,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,female,white,EasternCape,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,None,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,None,Gauteng,6,56,0.93,9.33,0.16
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,None,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,None,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,EasternCape,4,34,0.57,8.5,0.14
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,Gauteng,6,210,3.5,35,0.58
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,KwazuluNatal,6,41,0.68,6.83,0.11
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,NorthWest,2,7,0.12,3.5,0.06
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,black,WesternCape,2,49,0.82,24.5,0.41
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,coloured,Gauteng,2,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,coloured,KwazuluNatal,1,135,2.25,135,2.25
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,coloured,WesternCape,10,64,1.07,6.4,0.11
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,indian_asian,EasternCape,1,113,1.88,113,1.88
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,indian_asian,Gauteng,3,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,indian_asian,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,indian_asian,WesternCape,1,689,11.48,689,11.48
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,other,WesternCape,1,4,0.07,4,0.07
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,white,Gauteng,5,42,0.7,8.4,0.14
+2016,Mar,Normal_month,10,Weekend,Middle Adulthood,male,white,WesternCape,3,5,0.08,1.67,0.03
+2016,Mar,Normal_month,10,Weekend,Middle Childhood,female,black,Limpopo,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekend,Middle Childhood,male,black,KwazuluNatal,1,5,0.08,5,0.08
+2016,Mar,Normal_month,10,Weekend,Middle Childhood,male,coloured,WesternCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,None,Gauteng,3,4,0.07,1.33,0.02
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,None,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,None,Mpumalanga,2,20,0.33,10,0.17
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,None,WesternCape,3,34,0.57,11.33,0.19
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,black,EasternCape,3,8,0.13,2.67,0.04
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,black,FreeState,1,14,0.23,14,0.23
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,black,Gauteng,7,21,0.35,3,0.05
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,black,KwazuluNatal,1,89,1.48,89,1.48
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,black,Limpopo,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,black,Mpumalanga,3,27,0.45,9,0.15
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,coloured,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,coloured,WesternCape,1,129,2.15,129,2.15
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,indian_asian,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,2,18,0.3,9,0.15
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,female,white,Gauteng,1,1,0.02,1,0.02
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,None,EasternCape,2,4,0.07,2,0.03
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,None,Gauteng,5,78,1.3,15.6,0.26
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,None,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,None,NorthWest,1,5,0.08,5,0.08
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,None,WesternCape,4,92,1.53,23,0.38
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,EasternCape,6,109,1.82,18.17,0.3
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,FreeState,6,18,0.3,3,0.05
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,Gauteng,45,513,8.55,11.4,0.19
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,KwazuluNatal,12,314,5.23,26.17,0.44
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,Limpopo,4,20,0.33,5,0.08
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,Mpumalanga,17,77,1.28,4.53,0.08
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,NorthWest,11,82,1.37,7.45,0.12
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,NorthernCape,1,15,0.25,15,0.25
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,black,WesternCape,5,5,0.08,1,0.02
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,coloured,EasternCape,5,11,0.18,2.2,0.04
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,coloured,Gauteng,2,21,0.35,10.5,0.18
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,coloured,KwazuluNatal,1,13,0.22,13,0.22
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,coloured,WesternCape,31,325,5.42,10.48,0.17
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,indian_asian,FreeState,3,300,5,100,1.67
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,indian_asian,Gauteng,23,623,10.38,27.09,0.45
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,13,123,2.05,9.46,0.16
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,indian_asian,Limpopo,7,66,1.1,9.43,0.16
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,1,2,0.03,2,0.03
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,white,EasternCape,2,33,0.55,16.5,0.28
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,white,Gauteng,17,182,3.03,10.71,0.18
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,white,Mpumalanga,3,34,0.57,11.33,0.19
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,white,NorthWest,1,17,0.28,17,0.28
+2016,Mar,Normal_month,10,Weekend,Young Adulthood,male,white,WesternCape,3,187,3.12,62.33,1.04
+2016,Mar,Normal_month,10,Weekend,Young Old,female,black,NorthernCape,1,14,0.23,14,0.23
+2016,Mar,Normal_month,10,Weekend,Young Old,male,None,Gauteng,1,2,0.03,2,0.03
+2016,Mar,Normal_month,11,Weekday,Adolescence,female,black,EasternCape,2,68,1.13,34,0.57
+2016,Mar,Normal_month,11,Weekday,Adolescence,male,black,FreeState,6,35,0.58,5.83,0.1
+2016,Mar,Normal_month,11,Weekday,Adolescence,male,black,KwazuluNatal,2,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Adolescence,male,black,WesternCape,3,15,0.25,5,0.08
+2016,Mar,Normal_month,11,Weekday,Adolescence,male,coloured,EasternCape,3,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Adolescence,male,indian_asian,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Adolescence,male,white,Gauteng,4,44,0.73,11,0.18
+2016,Mar,Normal_month,11,Weekday,Childhood,None,None,None,13,115,1.92,8.85,0.15
+2016,Mar,Normal_month,11,Weekday,Elderly,male,white,Gauteng,2,15,0.25,7.5,0.13
+2016,Mar,Normal_month,11,Weekday,Eldest,female,black,Limpopo,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekday,Eldest,male,other,Gauteng,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,female,black,FreeState,1,6,0.1,6,0.1
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,female,black,Limpopo,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,female,coloured,WesternCape,2,30,0.5,15,0.25
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,female,white,EasternCape,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,female,white,Gauteng,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,None,Gauteng,8,110,1.83,13.75,0.23
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,None,Mpumalanga,4,127,2.12,31.75,0.53
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,black,EasternCape,5,24,0.4,4.8,0.08
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,black,FreeState,1,68,1.13,68,1.13
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,black,Gauteng,16,66,1.1,4.13,0.07
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,black,Limpopo,1,37,0.62,37,0.62
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,black,NorthWest,1,5,0.08,5,0.08
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,black,WesternCape,2,27,0.45,13.5,0.23
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,coloured,EasternCape,2,34,0.57,17,0.28
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,2,90,1.5,45,0.75
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,coloured,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,coloured,WesternCape,2,9,0.15,4.5,0.08
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,indian_asian,Gauteng,2,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,6,66,1.1,11,0.18
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,indian_asian,Limpopo,1,4,0.07,4,0.07
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,white,FreeState,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,white,Gauteng,15,117,1.95,7.8,0.13
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,white,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,white,Mpumalanga,1,4,0.07,4,0.07
+2016,Mar,Normal_month,11,Weekday,Middle Adulthood,male,white,WesternCape,2,6,0.1,3,0.05
+2016,Mar,Normal_month,11,Weekday,Middle Childhood,female,black,Gauteng,1,10,0.17,10,0.17
+2016,Mar,Normal_month,11,Weekday,Middle Childhood,female,black,Limpopo,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekday,Middle Childhood,female,white,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Middle Childhood,male,indian_asian,EasternCape,3,165,2.75,55,0.92
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,None,Gauteng,4,1,0.02,0.25,0
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,None,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,black,Gauteng,5,89,1.48,17.8,0.3
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,black,Mpumalanga,4,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,black,NorthWest,1,7,0.12,7,0.12
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,coloured,Gauteng,2,10,0.17,5,0.08
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,coloured,Mpumalanga,2,4,0.07,2,0.03
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,coloured,WesternCape,1,6,0.1,6,0.1
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,indian_asian,Gauteng,2,2,0.03,1,0.02
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,white,FreeState,3,13,0.22,4.33,0.07
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,white,Gauteng,1,6,0.1,6,0.1
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,white,NorthWest,1,5,0.08,5,0.08
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,female,white,WesternCape,1,4,0.07,4,0.07
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,None,EasternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,None,Gauteng,7,56,0.93,8,0.13
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,None,Limpopo,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,None,NorthWest,3,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,None,WesternCape,7,72,1.2,10.29,0.17
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,EasternCape,4,7,0.12,1.75,0.03
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,FreeState,7,56,0.93,8,0.13
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,Gauteng,64,800,13.33,12.5,0.21
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,KwazuluNatal,7,86,1.43,12.29,0.2
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,Limpopo,8,19,0.32,2.38,0.04
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,Mpumalanga,18,152,2.53,8.44,0.14
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,NorthWest,9,102,1.7,11.33,0.19
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,NorthernCape,2,19,0.32,9.5,0.16
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,black,WesternCape,7,55,0.92,7.86,0.13
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,coloured,Gauteng,6,254,4.23,42.33,0.71
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,coloured,Limpopo,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,coloured,NorthernCape,4,3,0.05,0.75,0.01
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,coloured,WesternCape,23,144,2.4,6.26,0.1
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,indian_asian,EasternCape,2,10,0.17,5,0.08
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,indian_asian,FreeState,1,10,0.17,10,0.17
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,indian_asian,Gauteng,36,331,5.52,9.19,0.15
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,8,54,0.9,6.75,0.11
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,indian_asian,Limpopo,13,125,2.08,9.62,0.16
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,2,45,0.75,22.5,0.38
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,other,WesternCape,3,54,0.9,18,0.3
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,EasternCape,4,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,FreeState,2,51,0.85,25.5,0.43
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,Gauteng,17,137,2.28,8.06,0.13
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,KwazuluNatal,2,17,0.28,8.5,0.14
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,Limpopo,3,7,0.12,2.33,0.04
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,Mpumalanga,6,78,1.3,13,0.22
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,NorthWest,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,NorthernCape,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,11,Weekday,Young Adulthood,male,white,WesternCape,2,10,0.17,5,0.08
+2016,Mar,Normal_month,11,Weekday,Young Old,male,None,Gauteng,1,129,2.15,129,2.15
+2016,Mar,Normal_month,11,Weekday,Young Old,male,indian_asian,Gauteng,3,22,0.37,7.33,0.12
+2016,Mar,Normal_month,11,Weekday,Young Old,male,white,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,black,FreeState,1,2,0.03,2,0.03
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,black,Gauteng,5,7,0.12,1.4,0.02
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,coloured,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,indian_asian,Gauteng,2,8,0.13,4,0.07
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,indian_asian,KwazuluNatal,1,25,0.42,25,0.42
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,white,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,white,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Adolescence,male,white,WesternCape,1,21,0.35,21,0.35
+2016,Mar,Normal_month,11,Weekend,Childhood,None,None,None,17,288,4.8,16.94,0.28
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,female,black,Gauteng,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,female,coloured,WesternCape,2,12,0.2,6,0.1
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,female,indian_asian,Gauteng,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,female,indian_asian,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,female,white,EasternCape,2,8,0.13,4,0.07
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,female,white,KwazuluNatal,1,23,0.38,23,0.38
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,None,Gauteng,4,173,2.88,43.25,0.72
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,None,Mpumalanga,2,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,None,WesternCape,2,8,0.13,4,0.07
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,black,EasternCape,2,8,0.13,4,0.07
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,black,Gauteng,13,96,1.6,7.38,0.12
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,black,KwazuluNatal,3,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,black,Mpumalanga,2,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,black,NorthWest,4,51,0.85,12.75,0.21
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,black,WesternCape,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,coloured,EasternCape,1,4,0.07,4,0.07
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,coloured,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,coloured,WesternCape,10,199,3.32,19.9,0.33
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,indian_asian,EasternCape,1,84,1.4,84,1.4
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,indian_asian,Gauteng,5,124,2.07,24.8,0.41
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,2,2,0.03,1,0.02
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,indian_asian,Limpopo,4,53,0.88,13.25,0.22
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,indian_asian,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,other,WesternCape,1,5,0.08,5,0.08
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,EasternCape,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,FreeState,1,19,0.32,19,0.32
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,Gauteng,7,47,0.78,6.71,0.11
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,NorthWest,1,13,0.22,13,0.22
+2016,Mar,Normal_month,11,Weekend,Middle Adulthood,male,white,WesternCape,6,96,1.6,16,0.27
+2016,Mar,Normal_month,11,Weekend,Middle Childhood,female,white,EasternCape,1,17,0.28,17,0.28
+2016,Mar,Normal_month,11,Weekend,Middle Childhood,male,indian_asian,EasternCape,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,11,Weekend,Middle Childhood,male,indian_asian,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Middle Childhood,male,white,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,None,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,None,Gauteng,2,18,0.3,9,0.15
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,black,Gauteng,4,23,0.38,5.75,0.1
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,black,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,black,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,black,NorthernCape,3,70,1.17,23.33,0.39
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,coloured,WesternCape,3,18,0.3,6,0.1
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,white,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,female,white,Gauteng,1,3,0.05,3,0.05
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,None,EasternCape,1,7,0.12,7,0.12
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,None,Gauteng,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,None,KwazuluNatal,3,3,0.05,1,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,None,Limpopo,2,19,0.32,9.5,0.16
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,None,Mpumalanga,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,None,WesternCape,6,55,0.92,9.17,0.15
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,EasternCape,8,210,3.5,26.25,0.44
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,FreeState,5,37,0.62,7.4,0.12
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,Gauteng,49,280,4.67,5.71,0.1
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,KwazuluNatal,5,1,0.02,0.2,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,Limpopo,10,100,1.67,10,0.17
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,Mpumalanga,12,63,1.05,5.25,0.09
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,NorthWest,6,18,0.3,3,0.05
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,black,WesternCape,3,12,0.2,4,0.07
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,EasternCape,2,24,0.4,12,0.2
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,FreeState,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,Gauteng,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,Mpumalanga,2,2,0.03,1,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,coloured,WesternCape,18,137,2.28,7.61,0.13
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,EasternCape,3,5,0.08,1.67,0.03
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,FreeState,1,69,1.15,69,1.15
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,Gauteng,28,595,9.92,21.25,0.35
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,8,31,0.52,3.88,0.06
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,Limpopo,9,13,0.22,1.44,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,5,32,0.53,6.4,0.11
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,indian_asian,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,other,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,other,Limpopo,1,6,0.1,6,0.1
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,other,WesternCape,2,0,0,0,0
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,white,EasternCape,1,13,0.22,13,0.22
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,white,Gauteng,14,374,6.23,26.71,0.45
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,white,KwazuluNatal,2,22,0.37,11,0.18
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,white,Mpumalanga,3,79,1.32,26.33,0.44
+2016,Mar,Normal_month,11,Weekend,Young Adulthood,male,white,WesternCape,2,20,0.33,10,0.17
+2016,Mar,Normal_month,11,Weekend,Young Old,female,black,NorthernCape,1,9,0.15,9,0.15
+2016,Mar,Normal_month,11,Weekend,Young Old,male,white,Gauteng,2,2,0.03,1,0.02
+2016,Mar,Normal_month,12,Weekday,Adolescence,female,None,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,black,Gauteng,2,30,0.5,15,0.25
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,black,Mpumalanga,2,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,black,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,coloured,EasternCape,5,65,1.08,13,0.22
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,indian_asian,Gauteng,3,7,0.12,2.33,0.04
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,indian_asian,KwazuluNatal,1,34,0.57,34,0.57
+2016,Mar,Normal_month,12,Weekday,Adolescence,male,white,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Childhood,None,None,None,26,427,7.12,16.42,0.27
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,None,KwazuluNatal,1,18,0.3,18,0.3
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,black,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,black,Gauteng,2,2,0.03,1,0.02
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,black,KwazuluNatal,2,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,black,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,black,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,indian_asian,EasternCape,1,13,0.22,13,0.22
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,indian_asian,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,white,EasternCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,white,Gauteng,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,female,white,WesternCape,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,None,Gauteng,4,91,1.52,22.75,0.38
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,None,KwazuluNatal,4,2,0.03,0.5,0.01
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,None,Limpopo,1,4,0.07,4,0.07
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,None,Mpumalanga,2,78,1.3,39,0.65
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,None,NorthWest,1,7,0.12,7,0.12
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,None,WesternCape,7,185,3.08,26.43,0.44
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,EasternCape,6,86,1.43,14.33,0.24
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,Gauteng,22,118,1.97,5.36,0.09
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,KwazuluNatal,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,Limpopo,1,46,0.77,46,0.77
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,Mpumalanga,2,4,0.07,2,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,NorthWest,6,142,2.37,23.67,0.39
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,black,WesternCape,3,26,0.43,8.67,0.14
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,coloured,FreeState,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,coloured,Gauteng,6,91,1.52,15.17,0.25
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,2,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,coloured,WesternCape,11,53,0.88,4.82,0.08
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,EasternCape,1,13,0.22,13,0.22
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,FreeState,1,77,1.28,77,1.28
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,Gauteng,12,19,0.32,1.58,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,3,11,0.18,3.67,0.06
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,Limpopo,1,13,0.22,13,0.22
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,Mpumalanga,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,indian_asian,WesternCape,4,77,1.28,19.25,0.32
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,other,WesternCape,4,22,0.37,5.5,0.09
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,EasternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,FreeState,3,51,0.85,17,0.28
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,Gauteng,16,176,2.93,11,0.18
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,KwazuluNatal,5,29,0.48,5.8,0.1
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,Limpopo,2,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,Mpumalanga,7,30,0.5,4.29,0.07
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,NorthWest,3,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,white,WesternCape,5,158,2.63,31.6,0.53
+2016,Mar,Normal_month,12,Weekday,Middle Adulthood,male,,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,None,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,None,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,black,KwazuluNatal,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,coloured,Limpopo,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,coloured,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,indian_asian,FreeState,2,92,1.53,46,0.77
+2016,Mar,Normal_month,12,Weekday,Middle Childhood,male,indian_asian,Gauteng,2,14,0.23,7,0.12
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,None,None,None,2,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,None,FreeState,2,13,0.22,6.5,0.11
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,None,Gauteng,6,4,0.07,0.67,0.01
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,Gauteng,7,34,0.57,4.86,0.08
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,KwazuluNatal,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,Limpopo,4,1,0.02,0.25,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,Mpumalanga,6,23,0.38,3.83,0.06
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,NorthWest,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,black,NorthernCape,6,45,0.75,7.5,0.13
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,coloured,Gauteng,3,5,0.08,1.67,0.03
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,coloured,KwazuluNatal,1,9,0.15,9,0.15
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,coloured,NorthernCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,coloured,WesternCape,4,12,0.2,3,0.05
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,indian_asian,Gauteng,5,22,0.37,4.4,0.07
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,indian_asian,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,indian_asian,Mpumalanga,1,102,1.7,102,1.7
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,white,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,white,Gauteng,3,47,0.78,15.67,0.26
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,female,white,NorthernCape,1,16,0.27,16,0.27
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,None,EasternCape,2,59,0.98,29.5,0.49
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,None,FreeState,2,2,0.03,1,0.02
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,None,Gauteng,13,142,2.37,10.92,0.18
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,None,KwazuluNatal,6,26,0.43,4.33,0.07
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,None,Limpopo,4,23,0.38,5.75,0.1
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,None,WesternCape,13,68,1.13,5.23,0.09
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,EasternCape,17,171,2.85,10.06,0.17
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,FreeState,6,86,1.43,14.33,0.24
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,Gauteng,73,555,9.25,7.6,0.13
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,KwazuluNatal,17,137,2.28,8.06,0.13
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,Limpopo,11,108,1.8,9.82,0.16
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,Mpumalanga,19,93,1.55,4.89,0.08
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,NorthWest,8,101,1.68,12.63,0.21
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,NorthernCape,4,67,1.12,16.75,0.28
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,black,WesternCape,12,44,0.73,3.67,0.06
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,EasternCape,6,22,0.37,3.67,0.06
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,FreeState,1,36,0.6,36,0.6
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,Gauteng,4,12,0.2,3,0.05
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,Limpopo,3,18,0.3,6,0.1
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,Mpumalanga,3,12,0.2,4,0.07
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,coloured,WesternCape,36,324,5.4,9,0.15
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,EasternCape,7,502,8.37,71.71,1.2
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,FreeState,6,17,0.28,2.83,0.05
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,Gauteng,102,1219,20.32,11.95,0.2
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,23,279,4.65,12.13,0.2
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,Limpopo,39,563,9.38,14.44,0.24
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,21,262,4.37,12.48,0.21
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,NorthWest,2,142,2.37,71,1.18
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,indian_asian,WesternCape,4,147,2.45,36.75,0.61
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,other,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,other,WesternCape,3,58,0.97,19.33,0.32
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,EasternCape,4,29,0.48,7.25,0.12
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,FreeState,3,16,0.27,5.33,0.09
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,Gauteng,43,267,4.45,6.21,0.1
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,KwazuluNatal,6,6,0.1,1,0.02
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,Limpopo,5,10,0.17,2,0.03
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,Mpumalanga,6,78,1.3,13,0.22
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,NorthernCape,1,10,0.17,10,0.17
+2016,Mar,Normal_month,12,Weekday,Young Adulthood,male,white,WesternCape,16,39,0.65,2.44,0.04
+2016,Mar,Normal_month,12,Weekday,Young Old,male,None,Gauteng,1,4,0.07,4,0.07
+2016,Mar,Normal_month,12,Weekday,Young Old,male,indian_asian,Gauteng,1,12,0.2,12,0.2
+2016,Mar,Normal_month,12,Weekday,Young Old,male,white,Gauteng,1,15,0.25,15,0.25
+2016,Mar,Normal_month,12,Weekday,Young Old,male,white,NorthWest,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Adolescence,female,black,KwazuluNatal,3,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,black,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,black,Gauteng,3,42,0.7,14,0.23
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,black,Mpumalanga,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,indian_asian,Gauteng,1,4,0.07,4,0.07
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,white,Gauteng,1,9,0.15,9,0.15
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,white,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,white,NorthWest,1,6,0.1,6,0.1
+2016,Mar,Normal_month,12,Weekend,Adolescence,male,white,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Childhood,None,None,None,25,232,3.87,9.28,0.15
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,female,None,KwazuluNatal,1,276,4.6,276,4.6
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,female,None,WesternCape,1,23,0.38,23,0.38
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,female,white,EasternCape,1,3,0.05,3,0.05
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,None,Gauteng,5,1,0.02,0.2,0
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,None,Limpopo,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,None,WesternCape,1,7,0.12,7,0.12
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,black,EasternCape,3,37,0.62,12.33,0.21
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,black,Gauteng,5,35,0.58,7,0.12
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,black,KwazuluNatal,3,29,0.48,9.67,0.16
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,black,Mpumalanga,3,16,0.27,5.33,0.09
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,black,NorthWest,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,black,WesternCape,1,28,0.47,28,0.47
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,coloured,Gauteng,3,7,0.12,2.33,0.04
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,coloured,WesternCape,7,58,0.97,8.29,0.14
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,indian_asian,EasternCape,2,130,2.17,65,1.08
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,indian_asian,Gauteng,7,2,0.03,0.29,0
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,indian_asian,KwazuluNatal,2,6,0.1,3,0.05
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,indian_asian,Limpopo,3,187,3.12,62.33,1.04
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,indian_asian,WesternCape,1,12,0.2,12,0.2
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,white,FreeState,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,white,Gauteng,7,7,0.12,1,0.02
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,white,Mpumalanga,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,12,Weekend,Middle Adulthood,male,white,WesternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Middle Childhood,male,indian_asian,Gauteng,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,None,Gauteng,7,46,0.77,6.57,0.11
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,black,EasternCape,3,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,black,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,black,KwazuluNatal,2,2,0.03,1,0.02
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,black,Mpumalanga,2,3,0.05,1.5,0.03
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,coloured,KwazuluNatal,2,7,0.12,3.5,0.06
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,indian_asian,KwazuluNatal,1,4,0.07,4,0.07
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,indian_asian,NorthWest,1,20,0.33,20,0.33
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,other,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,female,white,Gauteng,5,291,4.85,58.2,0.97
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,None,EasternCape,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,None,FreeState,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,None,Gauteng,5,12,0.2,2.4,0.04
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,None,Mpumalanga,1,12,0.2,12,0.2
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,None,WesternCape,5,46,0.77,9.2,0.15
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,EasternCape,3,3,0.05,1,0.02
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,FreeState,3,27,0.45,9,0.15
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,Gauteng,27,110,1.83,4.07,0.07
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,KwazuluNatal,5,187,3.12,37.4,0.62
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,Limpopo,8,15,0.25,1.88,0.03
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,Mpumalanga,8,24,0.4,3,0.05
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,NorthWest,1,12,0.2,12,0.2
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,NorthernCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,black,WesternCape,8,36,0.6,4.5,0.08
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,coloured,EasternCape,4,166,2.77,41.5,0.69
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,coloured,FreeState,2,19,0.32,9.5,0.16
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,coloured,Gauteng,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,coloured,Limpopo,3,56,0.93,18.67,0.31
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,coloured,NorthWest,1,1,0.02,1,0.02
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,coloured,WesternCape,36,499,8.32,13.86,0.23
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,indian_asian,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,indian_asian,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,indian_asian,Gauteng,20,572,9.53,28.6,0.48
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,indian_asian,KwazuluNatal,8,37,0.62,4.63,0.08
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,indian_asian,Limpopo,8,47,0.78,5.88,0.1
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,indian_asian,Mpumalanga,6,114,1.9,19,0.32
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,other,Gauteng,2,12,0.2,6,0.1
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,other,KwazuluNatal,1,2,0.03,2,0.03
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,other,WesternCape,2,21,0.35,10.5,0.18
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,white,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,white,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,white,Gauteng,12,57,0.95,4.75,0.08
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,white,KwazuluNatal,3,0,0,0,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,white,Mpumalanga,4,1,0.02,0.25,0
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,white,WesternCape,6,29,0.48,4.83,0.08
+2016,Mar,Normal_month,12,Weekend,Young Adulthood,male,,EasternCape,1,7,0.12,7,0.12
+2016,Mar,Normal_month,12,Weekend,Young Old,male,white,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Adolescence,female,white,Limpopo,1,3,0.05,3,0.05
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,black,FreeState,1,1,0.02,1,0.02
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,black,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,coloured,EasternCape,3,10,0.17,3.33,0.06
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,coloured,FreeState,4,9,0.15,2.25,0.04
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,indian_asian,Gauteng,3,8,0.13,2.67,0.04
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,indian_asian,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,indian_asian,NorthWest,2,2,0.03,1,0.02
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,other,WesternCape,1,22,0.37,22,0.37
+2016,Mar,Normal_month,13,Weekday,Adolescence,male,white,Mpumalanga,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,13,Weekday,Childhood,None,None,None,44,392,6.53,8.91,0.15
+2016,Mar,Normal_month,13,Weekday,Eldest,male,None,Limpopo,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,female,None,WesternCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,female,black,Gauteng,2,9,0.15,4.5,0.08
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,female,indian_asian,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,None,Gauteng,3,78,1.3,26,0.43
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,None,KwazuluNatal,1,9,0.15,9,0.15
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,None,Limpopo,1,2,0.03,2,0.03
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,None,Mpumalanga,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,None,WesternCape,2,8,0.13,4,0.07
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,black,EasternCape,3,109,1.82,36.33,0.61
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,black,Gauteng,18,111,1.85,6.17,0.1
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,black,KwazuluNatal,6,192,3.2,32,0.53
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,black,Mpumalanga,6,50,0.83,8.33,0.14
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,black,NorthWest,2,23,0.38,11.5,0.19
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,black,WesternCape,3,10,0.17,3.33,0.06
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,coloured,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,coloured,WesternCape,17,227,3.78,13.35,0.22
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,EasternCape,2,35,0.58,17.5,0.29
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,Gauteng,10,240,4,24,0.4
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,5,6,0.1,1.2,0.02
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,Limpopo,5,6,0.1,1.2,0.02
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,Mpumalanga,3,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,NorthWest,2,11,0.18,5.5,0.09
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,indian_asian,WesternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,other,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,white,FreeState,2,4,0.07,2,0.03
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,white,Gauteng,8,97,1.62,12.13,0.2
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,white,Mpumalanga,3,5,0.08,1.67,0.03
+2016,Mar,Normal_month,13,Weekday,Middle Adulthood,male,white,WesternCape,2,2,0.03,1,0.02
+2016,Mar,Normal_month,13,Weekday,Middle Childhood,male,None,Gauteng,3,25,0.42,8.33,0.14
+2016,Mar,Normal_month,13,Weekday,Middle Childhood,male,None,WesternCape,1,9,0.15,9,0.15
+2016,Mar,Normal_month,13,Weekday,Middle Childhood,male,coloured,Limpopo,2,9,0.15,4.5,0.08
+2016,Mar,Normal_month,13,Weekday,Middle Childhood,male,indian_asian,FreeState,3,205,3.42,68.33,1.14
+2016,Mar,Normal_month,13,Weekday,Middle Childhood,male,indian_asian,Limpopo,1,7,0.12,7,0.12
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,None,None,None,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,None,Gauteng,4,2,0.03,0.5,0.01
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,Gauteng,9,54,0.9,6,0.1
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,KwazuluNatal,3,35,0.58,11.67,0.19
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,Limpopo,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,Mpumalanga,1,2,0.03,2,0.03
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,NorthWest,1,1,0.02,1,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,black,NorthernCape,8,41,0.68,5.13,0.09
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,coloured,KwazuluNatal,1,1,0.02,1,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,coloured,WesternCape,4,44,0.73,11,0.18
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,indian_asian,Gauteng,3,86,1.43,28.67,0.48
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,indian_asian,KwazuluNatal,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,indian_asian,Mpumalanga,1,4,0.07,4,0.07
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,indian_asian,NorthWest,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,other,Limpopo,2,12,0.2,6,0.1
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,white,EasternCape,1,1,0.02,1,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,white,Gauteng,9,24,0.4,2.67,0.04
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,female,white,KwazuluNatal,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,None,EasternCape,1,2,0.03,2,0.03
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,None,FreeState,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,None,Gauteng,15,170,2.83,11.33,0.19
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,None,Limpopo,6,64,1.07,10.67,0.18
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,None,NorthWest,1,1,0.02,1,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,None,WesternCape,8,159,2.65,19.88,0.33
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,EasternCape,11,9,0.15,0.82,0.01
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,FreeState,3,2,0.03,0.67,0.01
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,Gauteng,66,611,10.18,9.26,0.15
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,KwazuluNatal,11,23,0.38,2.09,0.03
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,Limpopo,11,44,0.73,4,0.07
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,Mpumalanga,19,71,1.18,3.74,0.06
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,NorthWest,5,31,0.52,6.2,0.1
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,NorthernCape,2,1,0.02,0.5,0.01
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,black,WesternCape,9,210,3.5,23.33,0.39
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,coloured,EasternCape,2,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,coloured,Gauteng,5,68,1.13,13.6,0.23
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,coloured,KwazuluNatal,4,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,coloured,Limpopo,2,38,0.63,19,0.32
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,coloured,NorthernCape,4,18,0.3,4.5,0.08
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,coloured,WesternCape,42,155,2.58,3.69,0.06
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,EasternCape,6,26,0.43,4.33,0.07
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,FreeState,3,74,1.23,24.67,0.41
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,Gauteng,171,2627,43.78,15.36,0.26
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,31,379,6.32,12.23,0.2
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,Limpopo,69,789,13.15,11.43,0.19
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,Mpumalanga,17,250,4.17,14.71,0.25
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,NorthWest,3,44,0.73,14.67,0.24
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,NorthernCape,2,131,2.18,65.5,1.09
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,indian_asian,WesternCape,15,207,3.45,13.8,0.23
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,other,FreeState,2,2,0.03,1,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,other,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,other,WesternCape,5,87,1.45,17.4,0.29
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,EasternCape,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,FreeState,1,3,0.05,3,0.05
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,Gauteng,17,34,0.57,2,0.03
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,KwazuluNatal,4,10,0.17,2.5,0.04
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,Limpopo,4,19,0.32,4.75,0.08
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,Mpumalanga,12,14,0.23,1.17,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,NorthWest,2,9,0.15,4.5,0.08
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,white,WesternCape,4,5,0.08,1.25,0.02
+2016,Mar,Normal_month,13,Weekday,Young Adulthood,male,,Gauteng,2,5,0.08,2.5,0.04
+2016,Mar,Normal_month,13,Weekday,Young Old,male,None,Gauteng,1,8,0.13,8,0.13
+2016,Mar,Normal_month,13,Weekday,Young Old,male,indian_asian,Gauteng,1,0,0,0,0
+2016,Mar,Normal_month,13,Weekday,Young Old,male,white,Gauteng,1,4,0.07,4,0.07
+,,Normal_month,,Weekday,Adolescence,None,None,None,1,,,,
+,,Normal_month,,Weekday,Adolescence,female,black,Gauteng,3,,,,
+,,Normal_month,,Weekday,Adolescence,female,black,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Adolescence,female,coloured,EasternCape,1,,,,
+,,Normal_month,,Weekday,Adolescence,female,coloured,Gauteng,1,,,,
+,,Normal_month,,Weekday,Adolescence,female,white,FreeState,1,,,,
+,,Normal_month,,Weekday,Adolescence,female,white,Gauteng,1,,,,
+,,Normal_month,,Weekday,Adolescence,female,,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,None,Gauteng,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,black,Gauteng,2,,,,
+,,Normal_month,,Weekday,Adolescence,male,black,Limpopo,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,black,Mpumalanga,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,coloured,WesternCape,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,indian_asian,EasternCape,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,indian_asian,Gauteng,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,other,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Adolescence,male,white,EasternCape,1,,,,
+,,Normal_month,,Weekday,Childhood,None,None,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Childhood,None,None,None,524,,,,
+,,Normal_month,,Weekday,Childhood,None,indian_asian,None,1,,,,
+,,Normal_month,,Weekday,Childhood,male,,Mpumalanga,1,,,,
+,,Normal_month,,Weekday,Childhood,,,,218,,,,
+,,Normal_month,,Weekday,Middle Adulthood,female,black,EasternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,female,black,Gauteng,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,None,EasternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,None,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,None,WesternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,black,EasternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,black,Gauteng,9,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,black,KwazuluNatal,2,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,black,Mpumalanga,3,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,black,NorthWest,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,black,WesternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,coloured,FreeState,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,coloured,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,coloured,WesternCape,3,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,indian_asian,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,indian_asian,WesternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,other,Gauteng,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,other,WesternCape,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,white,FreeState,2,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,white,Gauteng,1,,,,
+,,Normal_month,,Weekday,Middle Adulthood,male,white,WesternCape,1,,,,
+,,Normal_month,,Weekday,Middle Childhood,female,black,Mpumalanga,1,,,,
+,,Normal_month,,Weekday,Middle Childhood,male,black,Limpopo,1,,,,
+,,Normal_month,,Weekday,Middle Childhood,male,white,Gauteng,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,None,EasternCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,None,WesternCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,EasternCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,Gauteng,12,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,KwazuluNatal,4,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,Limpopo,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,Mpumalanga,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,NorthWest,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,black,WesternCape,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,coloured,FreeState,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,coloured,Gauteng,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,indian_asian,WesternCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,other,KwazuluNatal,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,white,Gauteng,4,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,white,Limpopo,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,white,Mpumalanga,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,female,,Gauteng,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,None,FreeState,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,None,Gauteng,3,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,None,Mpumalanga,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,None,WesternCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,EasternCape,4,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,FreeState,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,Gauteng,36,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,KwazuluNatal,12,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,Limpopo,19,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,Mpumalanga,15,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,NorthWest,3,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,NorthernCape,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,black,WesternCape,3,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,coloured,EasternCape,4,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,coloured,Gauteng,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,coloured,Mpumalanga,3,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,coloured,NorthWest,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,coloured,NorthernCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,coloured,WesternCape,4,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,indian_asian,Gauteng,3,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,indian_asian,KwazuluNatal,3,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,indian_asian,Limpopo,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,other,KwazuluNatal,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,FreeState,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,Gauteng,11,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,KwazuluNatal,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,Limpopo,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,Mpumalanga,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,NorthWest,2,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,white,NorthernCape,1,,,,
+,,Normal_month,,Weekday,Young Adulthood,male,,Gauteng,2,,,,
